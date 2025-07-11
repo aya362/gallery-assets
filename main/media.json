@@ -1,0 +1,1826 @@
+[
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8467_02.webp"
+    },
+    "preview": {
+      "width": 3144,
+      "height": 2093,
+      "path": "main/previews/IMG_8467_02.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T06:33:40.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8451.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_8451.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T06:30:25.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8432.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_8432.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T06:23:48.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8410.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_8410.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T06:22:14.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8379.webp"
+    },
+    "preview": {
+      "width": 2432,
+      "height": 1619,
+      "path": "main/previews/IMG_8379.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T06:09:59.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8290.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_8290.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-11T04:56:13.000Z"
+  },
+  {
+    "type": "video",
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/ospreyfull.mp4"
+    },
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/ospreyfull.webp"
+    },
+    "preview": null,
+    "exif": null,
+    "date": "2025-07-10T09:54:41.210Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_8094.webp"
+    },
+    "preview": {
+      "width": 1960,
+      "height": 1225,
+      "path": "main/previews/IMG_8094.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-09T09:28:41.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7557.webp"
+    },
+    "preview": {
+      "width": 3456,
+      "height": 2160,
+      "path": "main/previews/IMG_7557.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-09T07:41:00.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7515.webp"
+    },
+    "preview": {
+      "width": 2602,
+      "height": 1811,
+      "path": "main/previews/IMG_7515.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-09T07:03:44.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7499.webp"
+    },
+    "preview": {
+      "width": 3049,
+      "height": 2071,
+      "path": "main/previews/IMG_7499.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-09T06:57:27.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7493_crop.webp"
+    },
+    "preview": {
+      "width": 3375,
+      "height": 2019,
+      "path": "main/previews/IMG_7493_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T06:54:43.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7481_crop.webp"
+    },
+    "preview": {
+      "width": 2655,
+      "height": 1588,
+      "path": "main/previews/IMG_7481_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T06:51:56.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7454.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_7454.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T06:16:55.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7456.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_7456.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T06:16:55.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7303.webp"
+    },
+    "preview": {
+      "width": 2482,
+      "height": 1382,
+      "path": "main/previews/IMG_7303.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T05:53:45.000Z"
+  },
+  {
+    "type": "video",
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/wagtail_calling.mp4"
+    },
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/wagtail_calling.webp"
+    },
+    "preview": null,
+    "exif": null,
+    "date": "2025-07-07T05:28:30.857Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7243.webp"
+    },
+    "preview": {
+      "width": 2523,
+      "height": 1616,
+      "path": "main/previews/IMG_7243.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T05:17:46.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7240_crop.webp"
+    },
+    "preview": {
+      "width": 1508,
+      "height": 961,
+      "path": "main/previews/IMG_7240_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T05:17:45.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7229.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_7229.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T05:10:17.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7212_crop.webp"
+    },
+    "preview": {
+      "width": 2926,
+      "height": 2004,
+      "path": "main/previews/IMG_7212_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-07T05:07:58.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7177.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_7177.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-06T17:06:51.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7112_crop.webp"
+    },
+    "preview": {
+      "width": 1721,
+      "height": 1188,
+      "path": "main/previews/IMG_7112_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-04T19:54:49.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7091_crop.webp"
+    },
+    "preview": {
+      "width": 2233,
+      "height": 1660,
+      "path": "main/previews/IMG_7091_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-04T19:38:25.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_7058_crop.webp"
+    },
+    "preview": {
+      "width": 1152,
+      "height": 892,
+      "path": "main/previews/IMG_7058_crop.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-04T18:58:51.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6967.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6967.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:55:54.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6954.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6954.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:49:19.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6944.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6944.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:43:42.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6898.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6898.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:11:02.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6895.webp"
+    },
+    "preview": {
+      "width": 2722,
+      "height": 1463,
+      "path": "main/previews/IMG_6895.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:09:11.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6888.webp"
+    },
+    "preview": {
+      "width": 3770,
+      "height": 2160,
+      "path": "main/previews/IMG_6888.jpg"
+    },
+    "exif": null,
+    "date": "2025-07-01T18:08:44.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6847.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6847.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-27T13:29:28.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6845.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6845.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-27T13:26:06.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6838.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6838.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-27T13:17:38.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6834.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6834.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-27T13:15:47.000Z"
+  },
+  {
+    "type": "video",
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/common_gull_on_nest.mov"
+    },
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/common_gull_on_nest.webp"
+    },
+    "preview": null,
+    "exif": null,
+    "date": "2025-06-26T17:41:14.440Z"
+  },
+  {
+    "type": "video",
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/lockonstab2.mp4"
+    },
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/lockonstab2.webp"
+    },
+    "preview": null,
+    "exif": null,
+    "date": "2025-06-21T17:29:50.300Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6792.webp"
+    },
+    "preview": {
+      "width": 2327,
+      "height": 1748,
+      "path": "main/previews/IMG_6792.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T18:55:29.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6791.webp"
+    },
+    "preview": {
+      "width": 1440,
+      "height": 2160,
+      "path": "main/previews/IMG_6791.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T18:40:21.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6789.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6789.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T18:38:20.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6776.webp"
+    },
+    "preview": {
+      "width": 1522,
+      "height": 951,
+      "path": "main/previews/IMG_6776.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T17:54:34.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/image3.webp"
+    },
+    "preview": {
+      "width": 840,
+      "height": 645,
+      "path": "main/previews/image3.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T17:06:32.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6718.webp"
+    },
+    "preview": {
+      "width": 1602,
+      "height": 1001,
+      "path": "main/previews/IMG_6718.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T16:59:25.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6708.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6708.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-20T16:48:50.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6685.webp"
+    },
+    "preview": {
+      "width": 1920,
+      "height": 1080,
+      "path": "main/previews/IMG_6685.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-18T18:31:54.087Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6673_01.webp"
+    },
+    "preview": {
+      "width": 1280,
+      "height": 720,
+      "path": "main/previews/IMG_6673_01.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-18T17:46:33.887Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6157.webp"
+    },
+    "preview": {
+      "width": 2940,
+      "height": 1653,
+      "path": "main/previews/IMG_6157.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:20:46.623Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6342.webp"
+    },
+    "preview": {
+      "width": 2561,
+      "height": 1705,
+      "path": "main/previews/IMG_6342.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:16:12.214Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6341.webp"
+    },
+    "preview": {
+      "width": 1910,
+      "height": 1298,
+      "path": "main/previews/IMG_6341.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:16:09.557Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6339.webp"
+    },
+    "preview": {
+      "width": 1853,
+      "height": 1305,
+      "path": "main/previews/IMG_6339.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:16:06.573Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6339_org.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6339_org.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:16:06.573Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6327.webp"
+    },
+    "preview": {
+      "width": 1808,
+      "height": 1086,
+      "path": "main/previews/IMG_6327.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:15:48.461Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6308.webp"
+    },
+    "preview": {
+      "width": 2081,
+      "height": 1312,
+      "path": "main/previews/IMG_6308.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:15:30.187Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6294.webp"
+    },
+    "preview": {
+      "width": 1701,
+      "height": 1173,
+      "path": "main/previews/IMG_6294.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:15:19.082Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6294_org.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6294_org.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:15:19.082Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6274.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6274.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:15:12.932Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6215.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6215.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:46.710Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6211.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6211.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:36.805Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6206.webp"
+    },
+    "preview": {
+      "width": 3244,
+      "height": 2160,
+      "path": "main/previews/IMG_6206.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:33.811Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6179.webp"
+    },
+    "preview": {
+      "width": 2715,
+      "height": 1527,
+      "path": "main/previews/IMG_6179.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:23.131Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6177.webp"
+    },
+    "preview": {
+      "width": 3528,
+      "height": 1984,
+      "path": "main/previews/IMG_6177.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:21.545Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6170.webp"
+    },
+    "preview": {
+      "width": 3036,
+      "height": 1707,
+      "path": "main/previews/IMG_6170.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:19.521Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6160.webp"
+    },
+    "preview": {
+      "width": 3154,
+      "height": 1774,
+      "path": "main/previews/IMG_6160.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-16T09:14:14.838Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6564.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6564.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-15T14:01:37.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6558.webp"
+    },
+    "preview": {
+      "width": 2820,
+      "height": 1900,
+      "path": "main/previews/IMG_6558.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-15T12:31:10.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6548.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/IMG_6548.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-15T12:21:43.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6542_crop0.webp"
+    },
+    "preview": {
+      "width": 2837,
+      "height": 1909,
+      "path": "main/previews/IMG_6542_crop0.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-15T12:21:17.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/image4.webp"
+    },
+    "preview": {
+      "width": 3240,
+      "height": 2160,
+      "path": "main/previews/image4.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-15T12:13:52.000Z"
+  },
+  {
+    "type": "video",
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/wagtail.mov"
+    },
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/wagtail.webp"
+    },
+    "preview": null,
+    "exif": null,
+    "date": "2025-06-15T10:30:00.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6228.webp"
+    },
+    "preview": {
+      "width": 2906,
+      "height": 1950,
+      "path": "main/previews/IMG_6228.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-11T12:41:38.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_6153.webp"
+    },
+    "preview": {
+      "width": 3242,
+      "height": 2160,
+      "path": "main/previews/IMG_6153.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-11T11:31:44.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0089.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0089.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T13:38:56.928Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0051.webp"
+    },
+    "preview": {
+      "width": 575,
+      "height": 378,
+      "path": "main/previews/CRW_0051.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T13:32:09.636Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0098.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0098.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:55:26.281Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0097.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0097.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:55:15.041Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0092.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0092.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:53:36.635Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0096.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0096.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:53:29.804Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0088.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0088.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:52:05.416Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0058.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0058.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:47:45.613Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0102.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0102.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-10T12:42:12.967Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0011.webp"
+    },
+    "preview": {
+      "width": 2048,
+      "height": 1360,
+      "path": "main/previews/CRW_0011.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-08T13:08:25.706Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0043.webp"
+    },
+    "preview": {
+      "width": 768,
+      "height": 777,
+      "path": "main/previews/CRW_0043.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-08T12:52:18.163Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/CRW_0032.webp"
+    },
+    "preview": {
+      "width": 1078,
+      "height": 687,
+      "path": "main/previews/CRW_0032.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-08T12:47:19.068Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_550_panorama.webp"
+    },
+    "preview": {
+      "width": 15198,
+      "height": 1888,
+      "path": "main/previews/IMG_550_panorama.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-06T05:19:57.026Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0314.webp"
+    },
+    "preview": {
+      "width": 1842,
+      "height": 1228,
+      "path": "main/previews/IMG_0314.jpg"
+    },
+    "exif": null,
+    "date": "2025-06-01T08:45:12.885Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0179.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0179.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:21:28.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0178.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0178.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:21:27.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0176.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0176.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:19:48.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0171.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0171.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:10:51.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0170.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0170.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:10:45.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0169.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0169.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T01:10:31.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0166.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0166.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T00:38:08.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0162_crop.webp"
+    },
+    "preview": {
+      "width": 1679,
+      "height": 1125,
+      "path": "main/previews/IMG_0162_crop.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T00:33:40.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0162.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0162.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T00:33:40.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0148.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0148.jpg"
+    },
+    "exif": null,
+    "date": "2000-01-31T00:03:14.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0301.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0301.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:15:33.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0294.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0294.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:14:14.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0526.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0526.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:14:14.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0524.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0524.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:14:12.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0558.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0558.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:12:05.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0138.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0138.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:08:16.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0439_crop.webp"
+    },
+    "preview": {
+      "width": 1876,
+      "height": 1257,
+      "path": "main/previews/IMG_0439_crop.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:04:31.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0104.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0104.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:03:22.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0231.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0231.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:02:40.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0508.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0508.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:02:34.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0224.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0224.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:02:04.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0506.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0506.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:01:32.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0419_crop0.webp"
+    },
+    "preview": {
+      "width": 1322,
+      "height": 824,
+      "path": "main/previews/IMG_0419_crop0.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:01:07.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0499.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0499.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:50.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0247.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0247.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:43.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0211.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0211.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:39.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0359_crop.webp"
+    },
+    "preview": {
+      "width": 1701,
+      "height": 1110,
+      "path": "main/previews/IMG_0359_crop.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:35.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0502_crop.webp"
+    },
+    "preview": {
+      "width": 763,
+      "height": 543,
+      "path": "main/previews/IMG_0502_crop.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:26.000Z"
+  },
+  {
+    "type": "image",
+    "full": null,
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/IMG_0502.webp"
+    },
+    "preview": {
+      "width": 3072,
+      "height": 2048,
+      "path": "main/previews/IMG_0502.jpg"
+    },
+    "exif": null,
+    "date": "1980-01-01T00:00:26.000Z"
+  }
+]
