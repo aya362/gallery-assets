@@ -1,2 +1,5 @@
 backup
 test
+*.bat
+/*.js
+**/*.log
