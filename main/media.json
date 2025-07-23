@@ -1,6 +1,182 @@
 [
   {
+    "type": "image",
+    "origPath": "main/orig/IMG_9690.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9690.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9690.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753175663000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/60",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 5000,
+      "ExposureCompensation": 1,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Eurasian wren"
+    },
+    "date": 1753175663000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9612.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9612.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9612.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753166725000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/60",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1753166725000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9603.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9603.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9603.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753166318000,
+      "ImageDescription": "Gray Wagtail juvenile",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1600,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Gray Wagtail"
+    },
+    "date": 1753166318000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9582_01.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9582_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9582_01.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753163826000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/60",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common kingfisher"
+    },
+    "date": 1753163826000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9574.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9574.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9574.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753163786000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common kingfisher"
+    },
+    "date": 1753163786000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9541.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9541.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9541.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753162833000,
+      "ImageDescription": "Kingfisher caught a fish",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/180",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 2500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common kingfisher"
+    },
+    "date": 1753162833000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9295.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9295.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9295.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753013439000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 5000,
+      "ExposureCompensation": 0.5,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1753013439000
+  },
+  {
     "type": "audio",
+    "origPath": "main/orig/gulspurv.wav",
     "full": {
       "width": 640,
       "height": 480,
@@ -13,10 +189,11 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Thu Jul 17 2025"
+    "date": 1752724756917
   },
   {
     "type": "audio",
+    "origPath": "main/orig/nightjar.wav",
     "full": {
       "width": 640,
       "height": 480,
@@ -29,250 +206,382 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Thu Jul 17 2025"
+    "date": 1752717512707
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_9068.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_9068.webp"
     },
     "preview": {
-      "width": 1620,
-      "height": 1080,
       "path": "main/previews/IMG_9068.jpg"
     },
-    "exif": null,
-    "date": "Thu Jul 17 2025"
+    "exif": {
+      "DateTimeOriginal": 1752712641000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 400,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Moon"
+    },
+    "date": 1752712641000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8623.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8581.webp"
-    },
-    "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_8581.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jul 13 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8613.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_8613.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jul 13 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_8623.webp"
     },
     "preview": {
-      "width": 3244,
-      "height": 2160,
       "path": "main/previews/IMG_8623.jpg"
     },
-    "exif": null,
-    "date": "Sun Jul 13 2025"
+    "exif": {
+      "DateTimeOriginal": 1752402605000,
+      "ImageDescription": "Hooded crow silhouette",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/3000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Hooded crow"
+    },
+    "date": 1752402605000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8613.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8502.webp"
+      "path": "main/thumbs/IMG_8613.webp"
     },
     "preview": {
-      "width": 1899,
-      "height": 1367,
-      "path": "main/previews/IMG_8502.jpg"
+      "path": "main/previews/IMG_8613.jpg"
     },
-    "exif": null,
-    "date": "Sat Jul 12 2025"
+    "exif": {
+      "DateTimeOriginal": 1752402041000,
+      "ImageDescription": "House sparrow carrying leaves",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 6.7,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 200,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 365,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "House sparrow"
+    },
+    "date": 1752402041000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8581.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8521.webp"
+      "path": "main/thumbs/IMG_8581.webp"
     },
     "preview": {
-      "width": 2132,
-      "height": 1421,
-      "path": "main/previews/IMG_8521.jpg"
+      "path": "main/previews/IMG_8581.jpg"
     },
-    "exif": null,
-    "date": "Sat Jul 12 2025"
+    "exif": {
+      "DateTimeOriginal": 1752397945000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 800,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752397945000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8526.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_8526.webp"
     },
     "preview": {
-      "width": 2486,
-      "height": 1657,
       "path": "main/previews/IMG_8526.jpg"
     },
-    "exif": null,
-    "date": "Sat Jul 12 2025"
+    "exif": {
+      "DateTimeOriginal": 1752307517000,
+      "ImageDescription": "Blue tit juvenile foraging",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Blue tit"
+    },
+    "date": 1752307517000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8521.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8379.webp"
+      "path": "main/thumbs/IMG_8521.webp"
     },
     "preview": {
-      "width": 2432,
-      "height": 1619,
-      "path": "main/previews/IMG_8379.jpg"
+      "path": "main/previews/IMG_8521.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
+    "exif": {
+      "DateTimeOriginal": 1752307453000,
+      "ImageDescription": "Garden warbler (?)",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Garden warbler (?)"
+    },
+    "date": 1752307453000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8502.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8450_03.webp"
+      "path": "main/thumbs/IMG_8502.webp"
     },
     "preview": {
-      "width": 722,
-      "height": 481,
-      "path": "main/previews/IMG_8450_03.jpg"
+      "path": "main/previews/IMG_8502.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "DateTimeOriginal": 1752306021000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752306021000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8467_02.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8327.webp"
-    },
-    "preview": {
-      "width": 2774,
-      "height": 1847,
-      "path": "main/previews/IMG_8327.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8290.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_8290.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8432.webp"
-    },
-    "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_8432.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_8413.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_8413.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_8467_02.webp"
     },
     "preview": {
-      "width": 3144,
-      "height": 2093,
       "path": "main/previews/IMG_8467_02.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
+    "exif": {
+      "DateTimeOriginal": 1752208420000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/30",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752208420000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8451.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_8451.webp"
     },
     "preview": {
-      "width": 3244,
-      "height": 2160,
       "path": "main/previews/IMG_8451.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 11 2025"
+    "exif": {
+      "DateTimeOriginal": 1752208225000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/60",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 2000,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752208225000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8450_03.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8450_03.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8450_03.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752208149000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 200,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752208149000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8432.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8432.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8432.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752207828000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/60",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 125,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752207828000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8413.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8413.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8413.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752207734000,
+      "ImageDescription": "Juvenile Blackbird eating cherries",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/180",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 6400,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Blackbird"
+    },
+    "date": 1752207734000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8379.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8379.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8379.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752206999000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 2000,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752206999000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8327.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8327.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8327.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752206124000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752206124000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_8290.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_8290.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8290.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1752202573000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/90",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 2000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752202573000
   },
   {
     "type": "video",
+    "origPath": "main/orig/ospreyfull.mp4",
     "full": {
       "width": null,
       "height": null,
@@ -285,74 +594,107 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Thu Jul 10 2025"
+    "date": 1752141281210
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_8094.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7499.webp"
-    },
-    "preview": {
-      "width": 3049,
-      "height": 2071,
-      "path": "main/previews/IMG_7499.jpg"
-    },
-    "exif": null,
-    "date": "Wed Jul 09 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_8094.webp"
     },
     "preview": {
-      "width": 1960,
-      "height": 1225,
       "path": "main/previews/IMG_8094.jpg"
     },
-    "exif": null,
-    "date": "Wed Jul 09 2025"
+    "exif": {
+      "DateTimeOriginal": 1752046121000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 6.7,
+      "ExposureProgram": "Manual",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752046121000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7557.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7515.webp"
-    },
-    "preview": {
-      "width": 2602,
-      "height": 1811,
-      "path": "main/previews/IMG_7515.jpg"
-    },
-    "exif": null,
-    "date": "Wed Jul 09 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_7557.webp"
     },
     "preview": {
-      "width": 3456,
-      "height": 2160,
       "path": "main/previews/IMG_7557.jpg"
     },
-    "exif": null,
-    "date": "Wed Jul 09 2025"
+    "exif": {
+      "DateTimeOriginal": 1752039660000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752039660000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7515.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7515.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7515.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/180",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "DateTimeOriginal": 1752037424000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 360,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752037424000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7499.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7499.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7499.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1250,
+      "DateTimeOriginal": 1752037047000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1752037047000
   },
   {
     "type": "video",
+    "origPath": "main/orig/wagtail_calling.mp4",
     "full": {
       "width": null,
       "height": null,
@@ -365,378 +707,562 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Mon Jul 07 2025"
+    "date": 1751866110857
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7493_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7303.webp"
-    },
-    "preview": {
-      "width": 2482,
-      "height": 1382,
-      "path": "main/previews/IMG_7303.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7212_crop.webp"
-    },
-    "preview": {
-      "width": 2926,
-      "height": 2004,
-      "path": "main/previews/IMG_7212_crop.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7481_crop.webp"
-    },
-    "preview": {
-      "width": 2655,
-      "height": 1588,
-      "path": "main/previews/IMG_7481_crop.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7243.webp"
-    },
-    "preview": {
-      "width": 2523,
-      "height": 1616,
-      "path": "main/previews/IMG_7243.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7229.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_7229.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_7493_crop.webp"
     },
     "preview": {
-      "width": 3375,
-      "height": 2019,
       "path": "main/previews/IMG_7493_crop.jpg"
     },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 2000,
+      "DateTimeOriginal": 1751864083000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 360,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751864083000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7481_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_7481_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7481_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 4000,
+      "DateTimeOriginal": 1751863916000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751863916000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7454.JPG",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_7454.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_7454.jpg"
     },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 4000,
+      "DateTimeOriginal": 1751861815000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751861815000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7456.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7240_crop.webp"
-    },
-    "preview": {
-      "width": 1508,
-      "height": 961,
-      "path": "main/previews/IMG_7240_crop.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_7456.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_7456.jpg"
     },
-    "exif": null,
-    "date": "Mon Jul 07 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 4000,
+      "DateTimeOriginal": 1751861815000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751861815000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7303.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_7303.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7303.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1751860425000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751860425000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7243.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7243.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7243.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1751858266000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751858266000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7240_crop.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7240_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7240_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/125",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "DateTimeOriginal": 1751858265000,
+      "MeteringMode": "Pattern",
+      "ISO": 6400,
+      "ExposureCompensation": 0,
+      "FocalLength": 400
+    },
+    "date": 1751858265000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7229.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7229.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7229.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1751857817000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751857817000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7212_crop.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_7212_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_7212_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/90",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1751857678000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751857678000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_7177.JPG",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_7177.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_7177.jpg"
     },
-    "exif": null,
-    "date": "Sun Jul 06 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 160,
+      "DateTimeOriginal": 1751814411000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1751814411000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7112_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_7058_crop.webp"
-    },
-    "preview": {
-      "width": 1152,
-      "height": 892,
-      "path": "main/previews/IMG_7058_crop.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jul 04 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_7112_crop.webp"
     },
     "preview": {
-      "width": 1721,
-      "height": 1188,
       "path": "main/previews/IMG_7112_crop.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 04 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 6.7,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "DateTimeOriginal": 1751651689000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751651689000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7091_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_7091_crop.webp"
     },
     "preview": {
-      "width": 2233,
-      "height": 1660,
       "path": "main/previews/IMG_7091_crop.jpg"
     },
-    "exif": null,
-    "date": "Fri Jul 04 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 6.7,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "DateTimeOriginal": 1751650705000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751650705000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_7058_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6895.webp"
+      "path": "main/thumbs/IMG_7058_crop.webp"
     },
     "preview": {
-      "width": 2722,
-      "height": 1463,
-      "path": "main/previews/IMG_6895.jpg"
+      "path": "main/previews/IMG_7058_crop.jpg"
     },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751648331000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751648331000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6967.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6888.webp"
-    },
-    "preview": {
-      "width": 3770,
-      "height": 2160,
-      "path": "main/previews/IMG_6888.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6944.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6944.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6898.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6898.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6954.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6954.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6967.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_6967.jpg"
     },
-    "exif": null,
-    "date": "Tue Jul 01 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 500,
+      "DateTimeOriginal": 1751388954000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751388954000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6954.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6834.webp"
+      "path": "main/thumbs/IMG_6954.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6834.jpg"
+      "path": "main/previews/IMG_6954.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 27 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 500,
+      "DateTimeOriginal": 1751388559000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751388559000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6944.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6838.webp"
+      "path": "main/thumbs/IMG_6944.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6838.jpg"
+      "path": "main/previews/IMG_6944.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 27 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/750",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 400,
+      "DateTimeOriginal": 1751388222000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 220,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751388222000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6898.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_6898.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6898.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751386262000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751386262000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6895.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6895.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6895.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751386151000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751386151000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6888.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6888.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6888.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751386124000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1751386124000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6847.JPG",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_6847.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_6847.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 27 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 9.5,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751023768000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751023768000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6845.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6845.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_6845.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 27 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/750",
+      "FNumber": 6.7,
+      "ExposureProgram": "Manual",
+      "ISO": 250,
+      "DateTimeOriginal": 1751023566000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751023566000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6838.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6838.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6838.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/750",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751023058000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751023058000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6834.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6834.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6834.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1751022947000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1751022947000
   },
   {
     "type": "video",
+    "origPath": "main/orig/common_gull_on_nest.mov",
     "full": {
       "width": null,
       "height": null,
@@ -749,10 +1275,11 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Thu Jun 26 2025"
+    "date": 1750959674440
   },
   {
     "type": "video",
+    "origPath": "main/orig/lockonstab2.mp4",
     "full": {
       "width": null,
       "height": null,
@@ -765,26 +1292,11 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Sat Jun 21 2025"
+    "date": 1750526990300
   },
   {
     "type": "audio",
-    "full": {
-      "width": 640,
-      "height": 480,
-      "path": "main/full/trepip_2.mp4"
-    },
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/trepip_2.webp"
-    },
-    "preview": null,
-    "exif": null,
-    "date": "Fri Jun 20 2025"
-  },
-  {
-    "type": "audio",
+    "origPath": "main/orig/trepip_bad.wav",
     "full": {
       "width": 640,
       "height": 480,
@@ -797,426 +1309,529 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Fri Jun 20 2025"
+    "date": 1750448966382
   },
   {
-    "type": "image",
-    "full": null,
+    "type": "audio",
+    "origPath": "main/orig/trepip_2.wav",
+    "full": {
+      "width": 640,
+      "height": 480,
+      "path": "main/full/trepip_2.mp4"
+    },
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/image3.webp"
+      "path": "main/thumbs/trepip_2.webp"
     },
-    "preview": {
-      "width": 840,
-      "height": 645,
-      "path": "main/previews/image3.jpg"
-    },
+    "preview": null,
     "exif": null,
-    "date": "Fri Jun 20 2025"
+    "date": 1750448417375
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6792.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6718.webp"
-    },
-    "preview": {
-      "width": 1602,
-      "height": 1001,
-      "path": "main/previews/IMG_6718.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6776.webp"
-    },
-    "preview": {
-      "width": 1522,
-      "height": 951,
-      "path": "main/previews/IMG_6776.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6792.webp"
     },
     "preview": {
-      "width": 2327,
-      "height": 1748,
       "path": "main/previews/IMG_6792.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 100,
+      "DateTimeOriginal": 1750438529000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750438529000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6791.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6789.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6789.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6708.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6708.jpg"
-    },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6791.webp"
     },
     "preview": {
-      "width": 1440,
-      "height": 2160,
       "path": "main/previews/IMG_6791.jpg"
     },
-    "exif": null,
-    "date": "Fri Jun 20 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1750437621000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 75,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750437621000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6789.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6673_01.webp"
+      "path": "main/thumbs/IMG_6789.webp"
     },
     "preview": {
-      "width": 1280,
-      "height": 720,
-      "path": "main/previews/IMG_6673_01.jpg"
+      "path": "main/previews/IMG_6789.jpg"
     },
-    "exif": null,
-    "date": "Wed Jun 18 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 4000,
+      "DateTimeOriginal": 1750437500000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 105,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750437500000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6776.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_6776.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6776.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1750434874000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750434874000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/image3.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/image3.webp"
+    },
+    "preview": {
+      "path": "main/previews/image3.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "DateTimeOriginal": 1750431992000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750431992000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6718.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6718.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6718.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1750431565000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 100,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750431565000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6708.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6708.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6708.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1750430930000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1750430930000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6685.jpg",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_6685.webp"
     },
     "preview": {
-      "width": 1920,
-      "height": 1080,
       "path": "main/previews/IMG_6685.jpg"
     },
-    "exif": null,
-    "date": "Wed Jun 18 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750271514087
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6673_01.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_6673_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6673_01.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750268793887
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6157.jpg",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_6157.webp"
     },
     "preview": {
-      "width": 2940,
-      "height": 1653,
       "path": "main/previews/IMG_6157.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065646623
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6342.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6160.webp"
-    },
-    "preview": {
-      "width": 3154,
-      "height": 1774,
-      "path": "main/previews/IMG_6160.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6170.webp"
-    },
-    "preview": {
-      "width": 3036,
-      "height": 1707,
-      "path": "main/previews/IMG_6170.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6177.webp"
-    },
-    "preview": {
-      "width": 3528,
-      "height": 1984,
-      "path": "main/previews/IMG_6177.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6179.webp"
-    },
-    "preview": {
-      "width": 2715,
-      "height": 1527,
-      "path": "main/previews/IMG_6179.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6211.webp"
-    },
-    "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_6211.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6215.webp"
-    },
-    "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_6215.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6294.webp"
-    },
-    "preview": {
-      "width": 1701,
-      "height": 1173,
-      "path": "main/previews/IMG_6294.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6206.webp"
-    },
-    "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_6206.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6327.webp"
-    },
-    "preview": {
-      "width": 1808,
-      "height": 1086,
-      "path": "main/previews/IMG_6327.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6308.webp"
-    },
-    "preview": {
-      "width": 2081,
-      "height": 1312,
-      "path": "main/previews/IMG_6308.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6339.webp"
-    },
-    "preview": {
-      "width": 1853,
-      "height": 1305,
-      "path": "main/previews/IMG_6339.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6342.webp"
     },
     "preview": {
-      "width": 2561,
-      "height": 1705,
       "path": "main/previews/IMG_6342.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065372214
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6341.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6341.webp"
     },
     "preview": {
-      "width": 1910,
-      "height": 1298,
       "path": "main/previews/IMG_6341.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065369557
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6339.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6294_org.webp"
+      "path": "main/thumbs/IMG_6339.webp"
     },
     "preview": {
-      "width": 3244,
-      "height": 2160,
-      "path": "main/previews/IMG_6294_org.jpg"
+      "path": "main/previews/IMG_6339.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065366573
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6339_org.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6339_org.webp"
     },
     "preview": {
-      "width": 3244,
-      "height": 2160,
       "path": "main/previews/IMG_6339_org.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065366573
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6327.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_6327.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6327.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065348461
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6308.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6308.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6308.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065330187
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6294.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6294.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6294.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065319082
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6294_org.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6294_org.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6294_org.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065319082
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6274.jpg",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_6274.webp"
     },
     "preview": {
-      "width": 3244,
-      "height": 2160,
       "path": "main/previews/IMG_6274.jpg"
     },
-    "exif": null,
-    "date": "Mon Jun 16 2025"
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065312932
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6215.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6215.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6215.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065286710
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6211.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6211.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6211.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065276805
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6206.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6206.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6206.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065273811
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6179.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6179.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6179.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065263131
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6177.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6177.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6177.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065261545
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6170.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6170.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6170.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065259521
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6160.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6160.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6160.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065254838
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6564.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6564.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6564.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "DateTimeOriginal": 1749988897000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1749988897000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_6558.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_6558.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6558.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 800,
+      "DateTimeOriginal": 1749983470000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1749983470000
   },
   {
     "type": "video",
+    "origPath": "main/orig/wagtail.mov",
     "full": {
       "width": null,
       "height": null,
@@ -1229,806 +1844,944 @@
     },
     "preview": null,
     "exif": null,
-    "date": "Sun Jun 15 2025"
+    "date": 1749983400000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6548.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/image4.webp"
-    },
-    "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/image4.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jun 15 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6558.webp"
-    },
-    "preview": {
-      "width": 2820,
-      "height": 1900,
-      "path": "main/previews/IMG_6558.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jun 15 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6542_crop0.webp"
-    },
-    "preview": {
-      "width": 2837,
-      "height": 1909,
-      "path": "main/previews/IMG_6542_crop0.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jun 15 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6548.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
       "path": "main/previews/IMG_6548.jpg"
     },
-    "exif": null,
-    "date": "Sun Jun 15 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 5000,
+      "DateTimeOriginal": 1749982903000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1749982903000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6542_crop0.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6564.webp"
+      "path": "main/thumbs/IMG_6542_crop0.webp"
     },
     "preview": {
-      "width": 3240,
-      "height": 2160,
-      "path": "main/previews/IMG_6564.jpg"
+      "path": "main/previews/IMG_6542_crop0.jpg"
     },
-    "exif": null,
-    "date": "Sun Jun 15 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "DateTimeOriginal": 1749982877000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1749982877000
   },
   {
     "type": "image",
+    "origPath": "main/orig/image4.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_6153.webp"
+      "path": "main/thumbs/image4.webp"
     },
     "preview": {
-      "width": 3242,
-      "height": 2160,
-      "path": "main/previews/IMG_6153.jpg"
+      "path": "main/previews/image4.jpg"
     },
-    "exif": null,
-    "date": "Wed Jun 11 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 250,
+      "DateTimeOriginal": 1749982432000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300,
+      "LensModel": "EF75-300mm f/4-5.6"
+    },
+    "date": 1749982432000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6228.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_6228.webp"
     },
     "preview": {
-      "width": 2906,
-      "height": 1950,
       "path": "main/previews/IMG_6228.jpg"
     },
-    "exif": null,
-    "date": "Wed Jun 11 2025"
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 250,
+      "DateTimeOriginal": 1749638498000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 1749638498000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_6153.jpg",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0051.webp"
+      "path": "main/thumbs/IMG_6153.webp"
     },
     "preview": {
-      "width": 575,
-      "height": 378,
-      "path": "main/previews/CRW_0051.jpg"
+      "path": "main/previews/IMG_6153.jpg"
     },
-    "exif": null,
-    "date": "Tue Jun 10 2025"
+    "exif": {
+      "DateTimeOriginal": 1749634304000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 1749634304000
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0089.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0088.webp"
-    },
-    "preview": {
-      "width": 2048,
-      "height": 1360,
-      "path": "main/previews/CRW_0088.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jun 10 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0058.webp"
-    },
-    "preview": {
-      "width": 2048,
-      "height": 1360,
-      "path": "main/previews/CRW_0058.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jun 10 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/CRW_0089.webp"
     },
     "preview": {
-      "width": 2048,
-      "height": 1360,
       "path": "main/previews/CRW_0089.jpg"
     },
     "exif": null,
-    "date": "Tue Jun 10 2025"
+    "date": 1749562736928
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0051.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0092.webp"
+      "path": "main/thumbs/CRW_0051.webp"
     },
     "preview": {
-      "width": 2048,
-      "height": 1360,
-      "path": "main/previews/CRW_0092.jpg"
+      "path": "main/previews/CRW_0051.jpg"
     },
     "exif": null,
-    "date": "Tue Jun 10 2025"
+    "date": 1749562329636
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0098.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0097.webp"
-    },
-    "preview": {
-      "width": 2048,
-      "height": 1360,
-      "path": "main/previews/CRW_0097.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jun 10 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0096.webp"
-    },
-    "preview": {
-      "width": 2048,
-      "height": 1360,
-      "path": "main/previews/CRW_0096.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jun 10 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/CRW_0098.webp"
     },
     "preview": {
-      "width": 2048,
-      "height": 1360,
       "path": "main/previews/CRW_0098.jpg"
     },
     "exif": null,
-    "date": "Tue Jun 10 2025"
+    "date": 1749560126281
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0097.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/CRW_0097.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0097.jpg"
+    },
+    "exif": null,
+    "date": 1749560115041
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0092.png",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/CRW_0092.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0092.jpg"
+    },
+    "exif": null,
+    "date": 1749560016635
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0096.png",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/CRW_0096.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0096.jpg"
+    },
+    "exif": null,
+    "date": 1749560009804
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0088.png",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/CRW_0088.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0088.jpg"
+    },
+    "exif": null,
+    "date": 1749559925416
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0058.png",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/CRW_0058.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0058.jpg"
+    },
+    "exif": null,
+    "date": 1749559665613
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0102.png",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/CRW_0102.webp"
     },
     "preview": {
-      "width": 2048,
-      "height": 1360,
       "path": "main/previews/CRW_0102.jpg"
     },
     "exif": null,
-    "date": "Tue Jun 10 2025"
+    "date": 1749559332967
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0011.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0043.webp"
-    },
-    "preview": {
-      "width": 768,
-      "height": 777,
-      "path": "main/previews/CRW_0043.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jun 08 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/CRW_0032.webp"
-    },
-    "preview": {
-      "width": 1078,
-      "height": 687,
-      "path": "main/previews/CRW_0032.jpg"
-    },
-    "exif": null,
-    "date": "Sun Jun 08 2025"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/CRW_0011.webp"
     },
     "preview": {
-      "width": 2048,
-      "height": 1360,
       "path": "main/previews/CRW_0011.jpg"
     },
     "exif": null,
-    "date": "Sun Jun 08 2025"
+    "date": 1749388105706
   },
   {
     "type": "image",
+    "origPath": "main/orig/CRW_0043.png",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/CRW_0043.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0043.jpg"
+    },
+    "exif": null,
+    "date": 1749387138163
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/CRW_0032.png",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/CRW_0032.webp"
+    },
+    "preview": {
+      "path": "main/previews/CRW_0032.jpg"
+    },
+    "exif": null,
+    "date": 1749386839068
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_550_panorama.jpeg",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_550_panorama.webp"
     },
     "preview": {
-      "width": 15198,
-      "height": 1888,
       "path": "main/previews/IMG_550_panorama.jpg"
     },
     "exif": null,
-    "date": "Fri Jun 06 2025"
+    "date": 1749187197026
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0314.webp",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_0314.webp"
     },
     "preview": {
-      "width": 1842,
-      "height": 1228,
       "path": "main/previews/IMG_0314.jpg"
     },
     "exif": null,
-    "date": "Sun Jun 01 2025"
+    "date": 1748767512885
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0179.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0148.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0148.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0162_crop.webp"
-    },
-    "preview": {
-      "width": 1679,
-      "height": 1125,
-      "path": "main/previews/IMG_0162_crop.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0169.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0169.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0162.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0162.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0166.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0166.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0171.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0171.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0170.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0170.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0178.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0178.jpg"
-    },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_0179.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
       "path": "main/previews/IMG_0179.jpg"
     },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949278088000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 949278088000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0178.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_0178.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0178.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949278087000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 949278087000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0176.JPG",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_0176.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
       "path": "main/previews/IMG_0176.jpg"
     },
-    "exif": null,
-    "date": "Mon Jan 31 2000"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949277988000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 949277988000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0171.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0104.webp"
+      "path": "main/thumbs/IMG_0171.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0104.jpg"
+      "path": "main/previews/IMG_0171.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949277451000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 949277451000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0170.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0138.webp"
+      "path": "main/thumbs/IMG_0170.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0138.jpg"
+      "path": "main/previews/IMG_0170.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949277445000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 949277445000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0169.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0211.webp"
+      "path": "main/thumbs/IMG_0169.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0211.jpg"
+      "path": "main/previews/IMG_0169.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 949277431000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 949277431000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0166.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0224.webp"
+      "path": "main/thumbs/IMG_0166.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0224.jpg"
+      "path": "main/previews/IMG_0166.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 6.3,
+      "ISO": 1600,
+      "DateTimeOriginal": 949275488000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 255
+    },
+    "date": 949275488000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0162.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0294.webp"
+      "path": "main/thumbs/IMG_0162.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0294.jpg"
+      "path": "main/previews/IMG_0162.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/800",
+      "FNumber": 5,
+      "ISO": 1600,
+      "DateTimeOriginal": 949275220000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 210
+    },
+    "date": 949275220000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0162_crop.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0231.webp"
+      "path": "main/thumbs/IMG_0162_crop.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0231.jpg"
+      "path": "main/previews/IMG_0162_crop.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/800",
+      "FNumber": 5,
+      "ISO": 1600,
+      "DateTimeOriginal": 949275220000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 210
+    },
+    "date": 949275220000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0148.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0419_crop0.webp"
+      "path": "main/thumbs/IMG_0148.webp"
     },
     "preview": {
-      "width": 1322,
-      "height": 824,
-      "path": "main/previews/IMG_0419_crop0.jpg"
+      "path": "main/previews/IMG_0148.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ISO": 160,
+      "DateTimeOriginal": 949273394000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 949273394000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0301.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0502_crop.webp"
-    },
-    "preview": {
-      "width": 763,
-      "height": 543,
-      "path": "main/previews/IMG_0502_crop.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0359_crop.webp"
-    },
-    "preview": {
-      "width": 1701,
-      "height": 1110,
-      "path": "main/previews/IMG_0359_crop.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_0301.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
       "path": "main/previews/IMG_0301.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/800",
+      "FNumber": 9,
+      "ISO": 400,
+      "DateTimeOriginal": 315530133000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315530133000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0294.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0439_crop.webp"
+      "path": "main/thumbs/IMG_0294.webp"
     },
     "preview": {
-      "width": 1876,
-      "height": 1257,
-      "path": "main/previews/IMG_0439_crop.jpg"
+      "path": "main/previews/IMG_0294.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/400",
+      "FNumber": 9,
+      "ISO": 400,
+      "DateTimeOriginal": 315530054000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 160
+    },
+    "date": 315530054000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0526.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0247.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0247.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0499.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0499.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0502.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0502.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0524.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0524.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0508.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0508.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/IMG_0506.webp"
-    },
-    "preview": {
-      "width": 3072,
-      "height": 2048,
-      "path": "main/previews/IMG_0506.jpg"
-    },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
-  },
-  {
-    "type": "image",
-    "full": null,
-    "thumb": {
-      "width": 400,
-      "height": 300,
       "path": "main/thumbs/IMG_0526.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
       "path": "main/previews/IMG_0526.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 315530054000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315530054000
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_0524.JPG",
     "full": null,
     "thumb": {
-      "width": 400,
-      "height": 300,
+      "path": "main/thumbs/IMG_0524.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0524.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 315530052000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315530052000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0558.JPG",
+    "full": null,
+    "thumb": {
       "path": "main/thumbs/IMG_0558.webp"
     },
     "preview": {
-      "width": 3072,
-      "height": 2048,
       "path": "main/previews/IMG_0558.jpg"
     },
-    "exif": null,
-    "date": "Tue Jan 01 1980"
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529925000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529925000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0138.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0138.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0138.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/2500",
+      "FNumber": 5.6,
+      "ISO": 800,
+      "DateTimeOriginal": 315529696000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529696000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0439_crop.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0439_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0439_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/2500",
+      "FNumber": 9,
+      "ISO": 800,
+      "DateTimeOriginal": 315529471000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529471000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0104.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0104.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0104.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ISO": 400,
+      "DateTimeOriginal": 315529402000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529402000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0231.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0231.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0231.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 10,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529360000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 315529360000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0508.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0508.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0508.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529354000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529354000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0224.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0224.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0224.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 11,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529324000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 315529324000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0506.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0506.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0506.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529292000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529292000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0419_crop0.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0419_crop0.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0419_crop0.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/1250",
+      "FNumber": 10,
+      "ISO": 800,
+      "DateTimeOriginal": 315529267000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529267000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0499.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0499.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0499.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/3200",
+      "FNumber": 7.1,
+      "ISO": 800,
+      "DateTimeOriginal": 315529250000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529250000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0247.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0247.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0247.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 7.1,
+      "ISO": 800,
+      "DateTimeOriginal": 315529243000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529243000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0211.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0211.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0211.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/320",
+      "FNumber": 10,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529239000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 300
+    },
+    "date": 315529239000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0359_crop.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0359_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0359_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/2500",
+      "FNumber": 8,
+      "ISO": 1600,
+      "DateTimeOriginal": 315529235000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529235000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0502_crop.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0502_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0502_crop.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/3200",
+      "FNumber": 7.1,
+      "ISO": 800,
+      "DateTimeOriginal": 315529226000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529226000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_0502.JPG",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_0502.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0502.jpg"
+    },
+    "exif": {
+      "Model": "Canon EOS 300D DIGITAL",
+      "ExposureTime": "1/3200",
+      "FNumber": 7.1,
+      "ISO": 800,
+      "DateTimeOriginal": 315529226000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Average",
+      "FocalLength": 300
+    },
+    "date": 315529226000
   }
 ]
