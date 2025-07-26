@@ -152,6 +152,106 @@
   },
   {
     "type": "image",
+    "origPath": "main/orig/IMG_9497.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9497.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9497.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753107323000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 320,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Spot",
+      "FocalLength": 360,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common sandpiper"
+    },
+    "date": 1753107323000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9416.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9416.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9416.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753105491000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 9.5,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 200,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common sandpiper"
+    },
+    "date": 1753105491000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9365.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9365.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9365.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753105433000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 11,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 200,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common sandpiper"
+    },
+    "date": 1753105433000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9323.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9323.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9323.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753105404000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common sandpiper"
+    },
+    "date": 1753105404000
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/IMG_9295.jpg",
     "full": null,
     "thumb": {
@@ -173,6 +273,31 @@
       "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
     },
     "date": 1753013439000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_9220.jpg",
+    "full": null,
+    "thumb": {
+      "path": "main/thumbs/IMG_9220.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9220.jpg"
+    },
+    "exif": {
+      "DateTimeOriginal": 1753010812000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 0.5,
+      "MeteringMode": "Spot",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common kingfisher"
+    },
+    "date": 1753010812000
   },
   {
     "type": "audio",
@@ -1633,13 +1758,13 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6294.jpg",
+    "origPath": "main/orig/IMG_6294_org.jpg",
     "full": null,
     "thumb": {
-      "path": "main/thumbs/IMG_6294.webp"
+      "path": "main/thumbs/IMG_6294_org.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6294.jpg"
+      "path": "main/previews/IMG_6294_org.jpg"
     },
     "exif": {
       "DateTimeOriginal": null
@@ -1648,13 +1773,13 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6294_org.jpg",
+    "origPath": "main/orig/IMG_6294.jpg",
     "full": null,
     "thumb": {
-      "path": "main/thumbs/IMG_6294_org.webp"
+      "path": "main/thumbs/IMG_6294.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6294_org.jpg"
+      "path": "main/previews/IMG_6294.jpg"
     },
     "exif": {
       "DateTimeOriginal": null
