@@ -1,14 +1,15 @@
 [
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9690.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9690.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9690.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9690.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753175663000,
       "Model": "Canon EOS 7D",
@@ -26,14 +27,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9612.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9612.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9612.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9612.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753166725000,
       "Model": "Canon EOS 7D",
@@ -50,14 +52,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9603.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9603.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9603.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9603.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753166318000,
       "ImageDescription": "Gray Wagtail juvenile",
@@ -76,14 +79,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9582_01.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9582_01.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9582_01.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9582_01.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753163826000,
       "Model": "Canon EOS 7D",
@@ -101,14 +105,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9574.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9574.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9574.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9574.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753163786000,
       "Model": "Canon EOS 7D",
@@ -126,14 +131,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9541.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9541.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9541.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9541.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753162833000,
       "ImageDescription": "Kingfisher caught a fish",
@@ -152,14 +158,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9497.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9497.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9497.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9497.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753107323000,
       "Model": "Canon EOS 7D",
@@ -177,14 +184,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9416.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9416.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9416.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9416.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105491000,
       "Model": "Canon EOS 7D",
@@ -202,14 +210,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9365.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9365.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9365.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9365.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105433000,
       "Model": "Canon EOS 7D",
@@ -227,14 +236,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9323.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9323.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9323.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9323.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105404000,
       "Model": "Canon EOS 7D",
@@ -252,14 +262,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9295.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9295.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9295.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9295.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753013439000,
       "Model": "Canon EOS 7D",
@@ -276,14 +287,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9220.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9220.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9220.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9220.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753010812000,
       "Model": "Canon EOS 7D",
@@ -300,49 +312,16 @@
     "date": 1753010812000
   },
   {
-    "type": "audio",
-    "origPath": "main/orig/gulspurv.wav",
-    "full": {
-      "width": 640,
-      "height": 480,
-      "path": "main/full/gulspurv.mp4"
-    },
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/gulspurv.webp"
-    },
-    "preview": null,
-    "exif": null,
-    "date": 1752724756917
-  },
-  {
-    "type": "audio",
-    "origPath": "main/orig/nightjar.wav",
-    "full": {
-      "width": 640,
-      "height": 480,
-      "path": "main/full/nightjar.mp4"
-    },
-    "thumb": {
-      "width": 400,
-      "height": 300,
-      "path": "main/thumbs/nightjar.webp"
-    },
-    "preview": null,
-    "exif": null,
-    "date": 1752717512707
-  },
-  {
     "type": "image",
-    "origPath": "main/orig/IMG_9068.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_9068.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9068.webp"
     },
     "preview": {
       "path": "main/previews/IMG_9068.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752712641000,
       "Model": "Canon EOS 7D",
@@ -360,14 +339,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8623.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8623.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8623.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8623.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752402605000,
       "ImageDescription": "Hooded crow silhouette",
@@ -386,14 +366,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8613.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8613.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8613.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8613.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752402041000,
       "ImageDescription": "House sparrow carrying leaves",
@@ -412,14 +393,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8581.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8581.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8581.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8581.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752397945000,
       "Model": "Canon EOS 7D",
@@ -436,14 +418,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8526.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8526.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8526.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8526.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752307517000,
       "ImageDescription": "Blue tit juvenile foraging",
@@ -462,14 +445,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8521.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8521.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8521.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8521.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752307453000,
       "ImageDescription": "Garden warbler (?)",
@@ -488,14 +472,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8502.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8502.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_8502.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8502.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.389",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -512,14 +497,41 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8467_02.jpg",
+    "origPath": "main\\orig\\IMG_8467.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_8467.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_8467.jpg"
+    },
     "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1752208420000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/30",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "White wagtail"
+    },
+    "date": 1752208420000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_8467_02.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8467_02.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8467_02.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752208420000,
       "Model": "Canon EOS 7D",
@@ -536,14 +548,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8451.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8451.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8451.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8451.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752208225000,
       "Model": "Canon EOS 7D",
@@ -560,14 +573,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8450_03.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8450_03.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8450_03.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8450_03.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1752208149000,
       "Model": "Canon EOS 7D",
@@ -584,14 +598,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8432.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8432.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8432.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8432.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752207828000,
       "Model": "Canon EOS 7D",
@@ -608,14 +623,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8413.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8413.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8413.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8413.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752207734000,
       "ImageDescription": "Juvenile Blackbird eating cherries",
@@ -634,14 +650,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8379.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8379.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8379.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8379.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752206999000,
       "Model": "Canon EOS 7D",
@@ -658,14 +675,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8327.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8327.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8327.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8327.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752206124000,
       "Model": "Canon EOS 7D",
@@ -682,14 +700,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8290.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8290.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8290.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8290.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752202573000,
       "Model": "Canon EOS 7D",
@@ -706,31 +725,31 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/ospreyfull.mp4",
-    "full": {
-      "width": null,
-      "height": null,
-      "path": "main/full/ospreyfull.mp4"
-    },
+    "origPath": "main\\orig\\ospreyfull.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/ospreyfull.webp"
     },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/ospreyfull.mp4"
+    },
     "preview": null,
-    "exif": null,
     "date": 1752141281210
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8094.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_8094.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8094.webp"
     },
     "preview": {
       "path": "main/previews/IMG_8094.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1752046121000,
       "Model": "Canon EOS 7D",
@@ -747,14 +766,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7557.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7557.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_7557.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7557.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1752039660000,
       "Model": "Canon EOS 7D",
@@ -771,14 +791,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7515.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7515.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7515.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7515.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.437",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/180",
@@ -795,14 +816,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7499.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7499.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7499.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7499.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.472",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -819,31 +841,31 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/wagtail_calling.mp4",
-    "full": {
-      "width": null,
-      "height": null,
-      "path": "main/full/wagtail_calling.mp4"
-    },
+    "origPath": "main\\orig\\wagtail_calling.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/wagtail_calling.webp"
     },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/wagtail_calling.mp4"
+    },
     "preview": null,
-    "exif": null,
     "date": 1751866110857
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7493_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7493_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7493_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7493_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.672",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -860,14 +882,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7481_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7481_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7481_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7481_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.672",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -884,14 +907,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7454.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7454.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7454.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7454.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -908,14 +932,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7456.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7456.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7456.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7456.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -932,14 +957,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7303.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7303.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7303.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7303.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.796",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/1500",
@@ -956,14 +982,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7243.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7243.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7243.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7243.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.561",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/125",
@@ -980,14 +1007,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7240_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7240_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7240_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7240_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.569",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/125",
@@ -1003,14 +1031,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7229.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7229.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7229.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7229.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1027,14 +1056,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7212_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7212_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7212_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7212_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.460",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/90",
@@ -1051,14 +1081,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7177.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7177.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7177.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7177.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/1000",
@@ -1075,14 +1106,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7112_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7112_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7112_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7112_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.449",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1099,14 +1131,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7091_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7091_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7091_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7091_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.345",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1123,14 +1156,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7058_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_7058_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_7058_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_7058_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.291",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1147,14 +1181,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6967.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6967.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6967.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6967.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/350",
@@ -1171,14 +1206,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6954.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6954.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6954.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6954.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/350",
@@ -1195,14 +1231,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6944.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6944.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6944.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6944.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/750",
@@ -1219,14 +1256,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6898.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6898.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6898.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6898.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -1243,14 +1281,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6895.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6895.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6895.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6895.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.861",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -1267,14 +1306,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6888.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6888.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6888.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6888.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.745",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -1291,14 +1331,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6847.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6847.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6847.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6847.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -1315,14 +1356,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6845.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6845.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6845.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6845.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/750",
@@ -1339,14 +1381,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6838.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6838.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6838.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6838.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/750",
@@ -1363,14 +1406,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6834.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6834.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6834.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6834.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/1500",
@@ -1387,82 +1431,79 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/common_gull_on_nest.mov",
-    "full": {
-      "width": null,
-      "height": null,
-      "path": "main/full/common_gull_on_nest.mov"
-    },
+    "origPath": "main\\orig\\common_gull_on_nest.mov",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/common_gull_on_nest.webp"
     },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/common_gull_on_nest.mov"
+    },
     "preview": null,
-    "exif": null,
     "date": 1750959674440
   },
   {
     "type": "video",
-    "origPath": "main/orig/lockonstab2.mp4",
-    "full": {
-      "width": null,
-      "height": null,
-      "path": "main/full/lockonstab2.mp4"
-    },
+    "origPath": "main\\orig\\lockonstab2.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/lockonstab2.webp"
     },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/lockonstab2.mp4"
+    },
     "preview": null,
-    "exif": null,
     "date": 1750526990300
   },
   {
     "type": "audio",
-    "origPath": "main/orig/trepip_bad.wav",
-    "full": {
-      "width": 640,
-      "height": 480,
-      "path": "main/full/trepip_bad.mp4"
-    },
+    "origPath": "main\\orig\\trepip_bad.wav",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/trepip_bad.webp"
     },
+    "full": {
+      "width": 640,
+      "height": 480,
+      "path": "main/full/trepip_bad.mp4"
+    },
     "preview": null,
-    "exif": null,
     "date": 1750448966382
   },
   {
     "type": "audio",
-    "origPath": "main/orig/trepip_2.wav",
-    "full": {
-      "width": 640,
-      "height": 480,
-      "path": "main/full/trepip_2.mp4"
-    },
+    "origPath": "main\\orig\\trepip_2.wav",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/trepip_2.webp"
     },
+    "full": {
+      "width": 640,
+      "height": 480,
+      "path": "main/full/trepip_2.mp4"
+    },
     "preview": null,
-    "exif": null,
     "date": 1750448417375
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6792.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6792.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6792.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6792.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.331",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/500",
@@ -1479,14 +1520,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6791.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6791.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6791.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6791.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1503,14 +1545,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6789.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6789.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6789.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6789.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1527,14 +1570,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6776.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6776.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6776.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6776.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1750434874000,
       "Model": "Canon EOS 7D",
@@ -1551,14 +1595,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/image3.jpg",
-    "full": null,
+    "origPath": "main\\orig\\image3.jpg",
     "thumb": {
       "path": "main/thumbs/image3.webp"
     },
     "preview": {
       "path": "main/previews/image3.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.302",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/1000",
@@ -1575,14 +1620,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6718.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6718.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6718.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6718.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1750431565000,
       "Model": "Canon EOS 7D",
@@ -1599,14 +1645,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6708.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6708.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6708.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6708.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1750430930000,
       "Model": "Canon EOS 7D",
@@ -1623,14 +1670,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6685.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6685.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6685.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6685.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1638,14 +1686,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6673_01.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6673_01.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6673_01.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6673_01.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1653,14 +1702,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6157.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6157.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6157.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6157.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.779",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1668,14 +1718,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6342.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6342.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6342.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6342.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1683,14 +1734,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6341.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6341.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6341.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6341.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.471",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1698,14 +1750,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6339.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6339.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6339.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6339.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.420",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1713,14 +1766,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6339_org.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6339_org.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6339_org.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6339_org.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1728,14 +1782,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6327.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6327.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6327.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6327.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.665",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1743,14 +1798,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6308.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6308.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6308.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6308.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.586",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1758,29 +1814,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6294_org.jpg",
-    "full": null,
-    "thumb": {
-      "path": "main/thumbs/IMG_6294_org.webp"
-    },
-    "preview": {
-      "path": "main/previews/IMG_6294_org.jpg"
-    },
-    "exif": {
-      "DateTimeOriginal": null
-    },
-    "date": 1750065319082
-  },
-  {
-    "type": "image",
-    "origPath": "main/orig/IMG_6294.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6294.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6294.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6294.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.450",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1788,14 +1830,31 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6274.jpg",
+    "origPath": "main\\orig\\IMG_6294_org.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_6294_org.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6294_org.jpg"
+    },
     "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": null
+    },
+    "date": 1750065319082
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_6274.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6274.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6274.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1803,14 +1862,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6215.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6215.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6215.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6215.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1818,14 +1878,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6211.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6211.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6211.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6211.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1833,14 +1894,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6206.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6206.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6206.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6206.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1848,14 +1910,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6179.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6179.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6179.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6179.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1863,14 +1926,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6177.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6177.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6177.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6177.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1878,14 +1942,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6170.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6170.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6170.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6170.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.779",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1893,14 +1958,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6160.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6160.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6160.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6160.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
     },
@@ -1908,14 +1974,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6564.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6564.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6564.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6564.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/350",
@@ -1932,14 +1999,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6558.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6558.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6558.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6558.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.484",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/350",
@@ -1956,31 +2024,31 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/wagtail.mov",
-    "full": {
-      "width": null,
-      "height": null,
-      "path": "main/full/wagtail.mov"
-    },
+    "origPath": "main\\orig\\wagtail.mov",
     "thumb": {
       "width": 400,
       "height": 300,
       "path": "main/thumbs/wagtail.webp"
     },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/wagtail.mov"
+    },
     "preview": null,
-    "exif": null,
     "date": 1749983400000
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6548.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6548.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6548.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6548.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -1997,14 +2065,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6542_crop0.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6542_crop0.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_6542_crop0.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6542_crop0.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.486",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -2021,14 +2090,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/image4.jpg",
-    "full": null,
+    "origPath": "main\\orig\\image4.jpg",
     "thumb": {
       "path": "main/thumbs/image4.webp"
     },
     "preview": {
       "path": "main/previews/image4.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/350",
@@ -2045,14 +2115,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6228.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6228.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6228.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6228.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.490",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/1500",
@@ -2068,14 +2139,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6153.jpg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_6153.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_6153.webp"
     },
     "preview": {
       "path": "main/previews/IMG_6153.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1749634304000,
       "Model": "Canon EOS 7D",
@@ -2091,196 +2163,211 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0089.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0089.png",
     "thumb": {
       "path": "main/thumbs/CRW_0089.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0089.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749562736928
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0051.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0051.png",
     "thumb": {
       "path": "main/thumbs/CRW_0051.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0051.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.521",
     "exif": null,
     "date": 1749562329636
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0098.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0098.png",
     "thumb": {
       "path": "main/thumbs/CRW_0098.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0098.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560126281
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0097.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0097.png",
     "thumb": {
       "path": "main/thumbs/CRW_0097.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0097.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560115041
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0092.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0092.png",
     "thumb": {
       "path": "main/thumbs/CRW_0092.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0092.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560016635
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0096.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0096.png",
     "thumb": {
       "path": "main/thumbs/CRW_0096.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0096.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560009804
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0088.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0088.png",
     "thumb": {
       "path": "main/thumbs/CRW_0088.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0088.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559925416
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0058.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0058.png",
     "thumb": {
       "path": "main/thumbs/CRW_0058.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0058.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559665613
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0102.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0102.png",
     "thumb": {
       "path": "main/thumbs/CRW_0102.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0102.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559332967
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0011.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0011.png",
     "thumb": {
       "path": "main/thumbs/CRW_0011.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0011.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.506",
     "exif": null,
     "date": 1749388105706
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0043.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0043.png",
     "thumb": {
       "path": "main/thumbs/CRW_0043.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0043.jpg"
     },
+    "full": null,
+    "aspectRatio": "0.988",
     "exif": null,
     "date": 1749387138163
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0032.png",
-    "full": null,
+    "origPath": "main\\orig\\CRW_0032.png",
     "thumb": {
       "path": "main/thumbs/CRW_0032.webp"
     },
     "preview": {
       "path": "main/previews/CRW_0032.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.569",
     "exif": null,
     "date": 1749386839068
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_550_panorama.jpeg",
-    "full": null,
+    "origPath": "main\\orig\\IMG_550_panorama.jpeg",
     "thumb": {
       "path": "main/thumbs/IMG_550_panorama.webp"
     },
     "preview": {
       "path": "main/previews/IMG_550_panorama.jpg"
     },
+    "full": null,
+    "aspectRatio": "8.050",
     "exif": null,
     "date": 1749187197026
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0314.webp",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0314.webp",
     "thumb": {
       "path": "main/thumbs/IMG_0314.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0314.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": null,
     "date": 1748767512885
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0179.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0179.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0179.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0179.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2295,14 +2382,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0178.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0178.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0178.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0178.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2317,14 +2405,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0176.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0176.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0176.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0176.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2339,14 +2428,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0171.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0171.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0171.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0171.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/250",
@@ -2361,14 +2451,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0170.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0170.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0170.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0170.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/250",
@@ -2383,14 +2474,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0169.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0169.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0169.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0169.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/250",
@@ -2405,14 +2497,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0166.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0166.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0166.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0166.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2427,14 +2520,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0162.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0162.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0162.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0162.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/800",
@@ -2449,14 +2543,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0162_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0162_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0162_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0162_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.492",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/800",
@@ -2471,14 +2566,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0148.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0148.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0148.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0148.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/250",
@@ -2493,14 +2589,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0301.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0301.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0301.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0301.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/800",
@@ -2515,14 +2612,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0294.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0294.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0294.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0294.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/400",
@@ -2537,14 +2635,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0526.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0526.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0526.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0526.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2559,14 +2658,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0524.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0524.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0524.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0524.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2581,14 +2681,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0558.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0558.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0558.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0558.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/400",
@@ -2603,14 +2704,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0138.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0138.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0138.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0138.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/2500",
@@ -2625,14 +2727,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0439_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0439_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0439_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0439_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.492",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/2500",
@@ -2647,14 +2750,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0104.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0104.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0104.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0104.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/400",
@@ -2669,14 +2773,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0231.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0231.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0231.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0231.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2691,14 +2796,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0508.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0508.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0508.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0508.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/400",
@@ -2713,14 +2819,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0224.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0224.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0224.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0224.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2735,14 +2842,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0506.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0506.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0506.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0506.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/400",
@@ -2757,14 +2865,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0419_crop0.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0419_crop0.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0419_crop0.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0419_crop0.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.604",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/1250",
@@ -2779,14 +2888,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0499.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0499.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0499.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0499.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/3200",
@@ -2801,14 +2911,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0247.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0247.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0247.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0247.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2823,14 +2934,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0211.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0211.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0211.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0211.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/320",
@@ -2845,14 +2957,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0359_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0359_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0359_crop.webp"
     },
     "preview": {
       "path": "main/previews/IMG_0359_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.532",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/2500",
@@ -2867,14 +2980,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0502_crop.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0502.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0502_crop.webp"
+      "path": "main/thumbs/IMG_0502.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0502_crop.jpg"
+      "path": "main/previews/IMG_0502.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/3200",
@@ -2889,14 +3003,15 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0502.JPG",
-    "full": null,
+    "origPath": "main\\orig\\IMG_0502_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0502.webp"
+      "path": "main/thumbs/IMG_0502_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0502.jpg"
+      "path": "main/previews/IMG_0502_crop.jpg"
     },
+    "full": null,
+    "aspectRatio": "1.405",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
       "ExposureTime": "1/3200",
