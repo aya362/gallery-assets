@@ -523,56 +523,6 @@
   },
   {
     "type": "image",
-    "origPath": "main\\orig\\IMG_8467_02.jpg",
-    "thumb": {
-      "path": "main/thumbs/IMG_8467_02.webp"
-    },
-    "preview": {
-      "path": "main/previews/IMG_8467_02.jpg"
-    },
-    "full": null,
-    "aspectRatio": "1.502",
-    "exif": {
-      "DateTimeOriginal": 1752208420000,
-      "Model": "Canon EOS 7D",
-      "ExposureTime": "1/30",
-      "FNumber": 8,
-      "ExposureProgram": "Manual",
-      "ISO": 250,
-      "ExposureCompensation": 0,
-      "MeteringMode": "CenterWeightedAverage",
-      "FocalLength": 400,
-      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
-    },
-    "date": 1752208420000
-  },
-  {
-    "type": "image",
-    "origPath": "main\\orig\\IMG_8451.jpg",
-    "thumb": {
-      "path": "main/thumbs/IMG_8451.webp"
-    },
-    "preview": {
-      "path": "main/previews/IMG_8451.jpg"
-    },
-    "full": null,
-    "aspectRatio": "1.502",
-    "exif": {
-      "DateTimeOriginal": 1752208225000,
-      "Model": "Canon EOS 7D",
-      "ExposureTime": "1/60",
-      "FNumber": 5.6,
-      "ExposureProgram": "Shutter priority",
-      "ISO": 2000,
-      "ExposureCompensation": 1.5,
-      "MeteringMode": "CenterWeightedAverage",
-      "FocalLength": 400,
-      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
-    },
-    "date": 1752208225000
-  },
-  {
-    "type": "image",
     "origPath": "main\\orig\\IMG_8450_03.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8450_03.webp"
@@ -1528,7 +1478,7 @@
       "path": "main/previews/IMG_6791.jpg"
     },
     "full": null,
-    "aspectRatio": "1.500",
+    "aspectRatio": "0.667",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -2520,29 +2470,6 @@
   },
   {
     "type": "image",
-    "origPath": "main\\orig\\IMG_0162.JPG",
-    "thumb": {
-      "path": "main/thumbs/IMG_0162.webp"
-    },
-    "preview": {
-      "path": "main/previews/IMG_0162.jpg"
-    },
-    "full": null,
-    "aspectRatio": "1.500",
-    "exif": {
-      "Model": "Canon EOS 300D DIGITAL",
-      "ExposureTime": "1/800",
-      "FNumber": 5,
-      "ISO": 1600,
-      "DateTimeOriginal": 949275220000,
-      "ExposureCompensation": 0,
-      "MeteringMode": "Pattern",
-      "FocalLength": 210
-    },
-    "date": 949275220000
-  },
-  {
-    "type": "image",
     "origPath": "main\\orig\\IMG_0162_crop.JPG",
     "thumb": {
       "path": "main/thumbs/IMG_0162_crop.webp"
@@ -2977,29 +2904,6 @@
       "FocalLength": 300
     },
     "date": 315529235000
-  },
-  {
-    "type": "image",
-    "origPath": "main\\orig\\IMG_0502.JPG",
-    "thumb": {
-      "path": "main/thumbs/IMG_0502.webp"
-    },
-    "preview": {
-      "path": "main/previews/IMG_0502.jpg"
-    },
-    "full": null,
-    "aspectRatio": "1.500",
-    "exif": {
-      "Model": "Canon EOS 300D DIGITAL",
-      "ExposureTime": "1/3200",
-      "FNumber": 7.1,
-      "ISO": 800,
-      "DateTimeOriginal": 315529226000,
-      "ExposureCompensation": 0,
-      "MeteringMode": "Average",
-      "FocalLength": 300
-    },
-    "date": 315529226000
   },
   {
     "type": "image",
