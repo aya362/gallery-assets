@@ -1,6 +1,369 @@
 [
   {
     "type": "image",
+    "origPath": "main\\orig\\IMG_0707.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0707.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0707.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1754056338000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 2,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1754056338000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0611_01.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0611_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0611_01.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1754029053000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1754029053000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0601.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0601.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0601.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1754029037000,
+      "ImageDescription": "juvenile",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Western yellow wagtail"
+    },
+    "date": 1754029037000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0486_01.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0486_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0486_01.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753896119000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 100,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1753896119000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0275.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0275.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0275.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753888505000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 800,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Western yellow wagtail"
+    },
+    "date": 1753888505000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0265.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0265.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0265.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753888466000,
+      "ImageDescription": "Redstart juvenile",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Redstart"
+    },
+    "date": 1753888466000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0258.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0258.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0258.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753888440000,
+      "ImageDescription": "Common redstart",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Common redstart"
+    },
+    "date": 1753888440000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0253.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0253.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0253.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753888383000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Willow warbler?"
+    },
+    "date": 1753888383000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0250.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0250.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0250.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753888222000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 400,
+      "ExposureCompensation": 1.5,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Redpoll"
+    },
+    "date": 1753888222000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0225_02.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0225_02.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0225_02.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753887952000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Western yellow wagtail"
+    },
+    "date": 1753887952000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0172_01.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0172_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0172_01.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753875264000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Meadow pipit"
+    },
+    "date": 1753875264000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0167_01.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0167_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0167_01.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1753871012000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1753871012000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0159_01.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0159_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0159_01.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1753870902000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1753870902000
+  },
+  {
+    "type": "image",
+    "origPath": "main\\orig\\IMG_0088.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_0088.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0088.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1753801549000,
+      "ImageDescription": "Bluethroat juvenile",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 4000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Bluethroat"
+    },
+    "date": 1753801549000
+  },
+  {
+    "type": "image",
     "origPath": "main\\orig\\IMG_9690.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_9690.webp"
