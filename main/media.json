@@ -1,6 +1,163 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/IMG_1651.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1651.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1651.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1755449035000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/350",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "House sparrow"
+    },
+    "date": 1755449035000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_1635.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1635.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1635.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1755447984000,
+      "ImageDescription": "juvenile",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/180",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 2500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Blackbird"
+    },
+    "date": 1755447984000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_1612.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1612.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1612.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1755446863000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/180",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1755446863000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_1598.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1598.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1598.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1755443815000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/750",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Vintererle"
+    },
+    "date": 1755443815000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_1594.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1594.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1594.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1755443719000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Vintererle"
+    },
+    "date": 1755443719000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/IMG_1592.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_1592.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1592.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1755443692000,
+      "ImageDescription": "flipping fly",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Vintererle"
+    },
+    "date": 1755443692000
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/IMG_1571.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_1571.webp"
