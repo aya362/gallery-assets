@@ -1,6 +1,45 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/as_stack11of106_dt.jpg",
+    "thumb": {
+      "path": "main/thumbs/as_stack11of106_dt.webp"
+    },
+    "preview": {
+      "path": "main/previews/as_stack11of106_dt.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.333",
+    "exif": {
+      "DateTimeOriginal": 1765497286000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 1250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "CenterWeightedAverage",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1765497286000
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/pleiades-dss-15-bias2-gimp3.jpg",
+    "thumb": {
+      "path": "main/thumbs/pleiades-dss-15-bias2-gimp3.webp"
+    },
+    "preview": {
+      "path": "main/previews/pleiades-dss-15-bias2-gimp3.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.066",
+    "exif": null,
+    "date": 1765453974300
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/IMG_2648.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_2648.webp"
