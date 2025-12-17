@@ -1,6 +1,20 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/Untitled.jpg",
+    "thumb": {
+      "path": "main/thumbs/Untitled.webp"
+    },
+    "preview": {
+      "path": "main/previews/Untitled.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.490",
+    "exif": null,
+    "date": 1766005002880
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/as_stack11of106_dt.jpg",
     "thumb": {
       "path": "main/thumbs/as_stack11of106_dt.webp"
