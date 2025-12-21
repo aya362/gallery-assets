@@ -1,6 +1,48 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/andromeda_wip.jpg",
+    "thumb": {
+      "path": "main/thumbs/andromeda_wip.webp"
+    },
+    "preview": {
+      "path": "main/previews/andromeda_wip.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.350",
+    "exif": null,
+    "date": 1766310615071
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/orion_wip_crop.jpg",
+    "thumb": {
+      "path": "main/thumbs/orion_wip_crop.webp"
+    },
+    "preview": {
+      "path": "main/previews/orion_wip_crop.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.017",
+    "exif": null,
+    "date": 1766275469700
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/orion_wip.jpg",
+    "thumb": {
+      "path": "main/thumbs/orion_wip.webp"
+    },
+    "preview": {
+      "path": "main/previews/orion_wip.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.502",
+    "exif": null,
+    "date": 1766274860863
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/Untitled.jpg",
     "thumb": {
       "path": "main/thumbs/Untitled.webp"
