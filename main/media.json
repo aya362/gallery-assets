@@ -1,6 +1,80 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/_iris_grax.jpg",
+    "thumb": {
+      "path": "main/thumbs/_iris_grax.webp"
+    },
+    "preview": {
+      "path": "main/previews/_iris_grax.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.178",
+    "exif": null,
+    "date": 1766932719890
+  },
+  {
+    "type": "video",
+    "origPath": "main/orig/bortle6cloudymilkyway_timelapse.mp4",
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/bortle6cloudymilkyway_timelapse.webp"
+    },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/bortle6cloudymilkyway_timelapse.mp4"
+    },
+    "preview": null,
+    "date": 1766864154427
+  },
+  {
+    "type": "video",
+    "origPath": "main/orig/moonset.mp4",
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/moonset.webp"
+    },
+    "full": {
+      "width": null,
+      "height": null,
+      "path": "main/full/moonset.mp4"
+    },
+    "preview": null,
+    "date": 1766798622439
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/c20_gimp.jpg",
+    "thumb": {
+      "path": "main/thumbs/c20_gimp.webp"
+    },
+    "preview": {
+      "path": "main/previews/c20_gimp.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.000",
+    "exif": null,
+    "date": 1766628221295
+  },
+  {
+    "type": "image",
+    "origPath": "main/orig/milkyway_lightpollution.jpg",
+    "thumb": {
+      "path": "main/thumbs/milkyway_lightpollution.webp"
+    },
+    "preview": {
+      "path": "main/previews/milkyway_lightpollution.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.220",
+    "exif": null,
+    "date": 1766615961645
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/andromeda_wip.jpg",
     "thumb": {
       "path": "main/thumbs/andromeda_wip.webp"
