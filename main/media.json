@@ -1,6 +1,20 @@
 [
   {
     "type": "image",
+    "origPath": "main/orig/IMG_9052_jupiter.jpg",
+    "thumb": {
+      "path": "main/thumbs/IMG_9052_jupiter.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9052_jupiter.jpg"
+    },
+    "full": null,
+    "aspectRatio": "1.000",
+    "exif": {},
+    "date": 1768030798797
+  },
+  {
+    "type": "image",
     "origPath": "main/orig/IMG_8265.jpg",
     "thumb": {
       "path": "main/thumbs/IMG_8265.webp"
