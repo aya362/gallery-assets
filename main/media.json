@@ -1,28 +1,40 @@
 [
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9052_jupiter.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9052_jupiter.webp"
+      "path": "2025/thumbs/IMG_9194 - IMG_9244_18984.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9052_jupiter.jpg"
+      "path": "2025/previews/IMG_9194 - IMG_9244_18984.jpg"
     },
-    "full": null,
+    "aspectRatio": "8.955",
+    "exif": {
+      "DateTimeOriginal": 1768827045000,
+      "ImageDescription": "-\r\nProjection: Orthographic (14)\r\nFOV: 146 x 16\r\nEv: 15.15",
+      "Model": "Canon EOS 7D"
+    },
+    "date": 1768827045000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "2025/thumbs/IMG_9052_jupiter.webp"
+    },
+    "preview": {
+      "path": "2025/previews/IMG_9052_jupiter.jpg"
+    },
     "aspectRatio": "1.000",
     "exif": {},
     "date": 1768030798797
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8265.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8265.webp"
+      "path": "2025/thumbs/IMG_8265.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8265.jpg"
+      "path": "2025/previews/IMG_8265.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1767222621000,
@@ -40,30 +52,27 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/_out2.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/_out2.webp"
+      "path": "2025/thumbs/_out2.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/_out2.mp4"
+      "path": "2025/media/_out2.mp4"
     },
     "preview": null,
     "date": 1767158829693
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7715.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_7715.webp"
+      "path": "2025/thumbs/IMG_7715.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7715.jpg"
+      "path": "2025/previews/IMG_7715.jpg"
     },
-    "full": null,
     "aspectRatio": "1.334",
     "exif": {
       "DateTimeOriginal": 1767150486000,
@@ -81,144 +90,126 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/_iris_grax.jpg",
     "thumb": {
-      "path": "main/thumbs/_iris_grax.webp"
+      "path": "2025/thumbs/_iris_grax.webp"
     },
     "preview": {
-      "path": "main/previews/_iris_grax.jpg"
+      "path": "2025/previews/_iris_grax.jpg"
     },
-    "full": null,
     "aspectRatio": "1.178",
     "exif": null,
     "date": 1766932719890
   },
   {
     "type": "video",
-    "origPath": "main/orig/bortle6cloudymilkyway_timelapse.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/bortle6cloudymilkyway_timelapse.webp"
+      "path": "2025/thumbs/bortle6cloudymilkyway_timelapse.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/bortle6cloudymilkyway_timelapse.mp4"
+      "path": "2025/media/bortle6cloudymilkyway_timelapse.mp4"
     },
     "preview": null,
     "date": 1766864154427
   },
   {
     "type": "video",
-    "origPath": "main/orig/moonset.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/moonset.webp"
+      "path": "2025/thumbs/moonset.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/moonset.mp4"
+      "path": "2025/media/moonset.mp4"
     },
     "preview": null,
     "date": 1766798622439
   },
   {
     "type": "image",
-    "origPath": "main/orig/c20_gimp.jpg",
     "thumb": {
-      "path": "main/thumbs/c20_gimp.webp"
+      "path": "2025/thumbs/c20_gimp.webp"
     },
     "preview": {
-      "path": "main/previews/c20_gimp.jpg"
+      "path": "2025/previews/c20_gimp.jpg"
     },
-    "full": null,
     "aspectRatio": "1.000",
     "exif": null,
     "date": 1766628221295
   },
   {
     "type": "image",
-    "origPath": "main/orig/milkyway_lightpollution.jpg",
     "thumb": {
-      "path": "main/thumbs/milkyway_lightpollution.webp"
+      "path": "2025/thumbs/milkyway_lightpollution.webp"
     },
     "preview": {
-      "path": "main/previews/milkyway_lightpollution.jpg"
+      "path": "2025/previews/milkyway_lightpollution.jpg"
     },
-    "full": null,
     "aspectRatio": "1.220",
     "exif": null,
     "date": 1766615961645
   },
   {
     "type": "image",
-    "origPath": "main/orig/andromeda_wip.jpg",
     "thumb": {
-      "path": "main/thumbs/andromeda_wip.webp"
+      "path": "2025/thumbs/andromeda_wip.webp"
     },
     "preview": {
-      "path": "main/previews/andromeda_wip.jpg"
+      "path": "2025/previews/andromeda_wip.jpg"
     },
-    "full": null,
     "aspectRatio": "1.350",
     "exif": null,
     "date": 1766310615071
   },
   {
     "type": "image",
-    "origPath": "main/orig/orion_wip_crop.jpg",
     "thumb": {
-      "path": "main/thumbs/orion_wip_crop.webp"
+      "path": "2025/thumbs/orion_wip_crop.webp"
     },
     "preview": {
-      "path": "main/previews/orion_wip_crop.jpg"
+      "path": "2025/previews/orion_wip_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.017",
     "exif": null,
     "date": 1766275469700
   },
   {
     "type": "image",
-    "origPath": "main/orig/orion_wip.jpg",
     "thumb": {
-      "path": "main/thumbs/orion_wip.webp"
+      "path": "2025/thumbs/orion_wip.webp"
     },
     "preview": {
-      "path": "main/previews/orion_wip.jpg"
+      "path": "2025/previews/orion_wip.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": null,
     "date": 1766274860863
   },
   {
     "type": "image",
-    "origPath": "main/orig/Untitled.jpg",
     "thumb": {
-      "path": "main/thumbs/Untitled.webp"
+      "path": "2025/thumbs/Untitled.webp"
     },
     "preview": {
-      "path": "main/previews/Untitled.jpg"
+      "path": "2025/previews/Untitled.jpg"
     },
-    "full": null,
     "aspectRatio": "1.490",
     "exif": null,
     "date": 1766005002880
   },
   {
     "type": "image",
-    "origPath": "main/orig/as_stack11of106_dt.jpg",
     "thumb": {
-      "path": "main/thumbs/as_stack11of106_dt.webp"
+      "path": "2025/thumbs/as_stack11of106_dt.webp"
     },
     "preview": {
-      "path": "main/previews/as_stack11of106_dt.jpg"
+      "path": "2025/previews/as_stack11of106_dt.jpg"
     },
-    "full": null,
     "aspectRatio": "1.333",
     "exif": {
       "DateTimeOriginal": 1765526086000,
@@ -236,28 +227,24 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/pleiades-dss-15-bias2-gimp3.jpg",
     "thumb": {
-      "path": "main/thumbs/pleiades-dss-15-bias2-gimp3.webp"
+      "path": "2025/thumbs/pleiades-dss-15-bias2-gimp3.webp"
     },
     "preview": {
-      "path": "main/previews/pleiades-dss-15-bias2-gimp3.jpg"
+      "path": "2025/previews/pleiades-dss-15-bias2-gimp3.jpg"
     },
-    "full": null,
     "aspectRatio": "1.066",
     "exif": null,
     "date": 1765453974300
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2648.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2648.webp"
+      "path": "2025/thumbs/IMG_2648.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2648.jpg"
+      "path": "2025/previews/IMG_2648.jpg"
     },
-    "full": null,
     "aspectRatio": "1.523",
     "exif": {
       "DateTimeOriginal": 1762699269000,
@@ -275,14 +262,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2603.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2603.webp"
+      "path": "2025/thumbs/IMG_2603.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2603.jpg"
+      "path": "2025/previews/IMG_2603.jpg"
     },
-    "full": null,
     "aspectRatio": "1.143",
     "exif": {
       "DateTimeOriginal": 1762698438000,
@@ -300,14 +285,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2587.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2587.webp"
+      "path": "2025/thumbs/IMG_2587.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2587.jpg"
+      "path": "2025/previews/IMG_2587.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1762697584000,
@@ -325,14 +308,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2580.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2580.webp"
+      "path": "2025/thumbs/IMG_2580.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2580.jpg"
+      "path": "2025/previews/IMG_2580.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1762697361000,
@@ -350,14 +331,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2501.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2501.webp"
+      "path": "2025/thumbs/IMG_2501.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2501.jpg"
+      "path": "2025/previews/IMG_2501.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1762695046000,
@@ -375,14 +354,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2393_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2393_01.webp"
+      "path": "2025/thumbs/IMG_2393_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2393_01.jpg"
+      "path": "2025/previews/IMG_2393_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1761654528000,
@@ -400,14 +377,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2388.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2388.webp"
+      "path": "2025/thumbs/IMG_2388.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2388.jpg"
+      "path": "2025/previews/IMG_2388.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761653914000,
@@ -425,14 +400,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2386.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2386.webp"
+      "path": "2025/thumbs/IMG_2386.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2386.jpg"
+      "path": "2025/previews/IMG_2386.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761653909000,
@@ -450,14 +423,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2370.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2370.webp"
+      "path": "2025/thumbs/IMG_2370.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2370.jpg"
+      "path": "2025/previews/IMG_2370.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761653441000,
@@ -476,14 +447,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2362.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2362.webp"
+      "path": "2025/thumbs/IMG_2362.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2362.jpg"
+      "path": "2025/previews/IMG_2362.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1761650324000,
@@ -501,14 +470,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2359.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2359.webp"
+      "path": "2025/thumbs/IMG_2359.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2359.jpg"
+      "path": "2025/previews/IMG_2359.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761650130000,
@@ -526,14 +493,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2353.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2353.webp"
+      "path": "2025/thumbs/IMG_2353.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2353.jpg"
+      "path": "2025/previews/IMG_2353.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1761650059000,
@@ -551,14 +516,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2340_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2340_01.webp"
+      "path": "2025/thumbs/IMG_2340_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2340_01.jpg"
+      "path": "2025/previews/IMG_2340_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761649485000,
@@ -577,14 +540,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2325.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2325.webp"
+      "path": "2025/thumbs/IMG_2325.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2325.jpg"
+      "path": "2025/previews/IMG_2325.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761649368000,
@@ -603,14 +564,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2283.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2283.webp"
+      "path": "2025/thumbs/IMG_2283.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2283.jpg"
+      "path": "2025/previews/IMG_2283.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761648493000,
@@ -628,14 +587,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2248.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2248.webp"
+      "path": "2025/thumbs/IMG_2248.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2248.jpg"
+      "path": "2025/previews/IMG_2248.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761648097000,
@@ -653,14 +610,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2233_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2233_01.webp"
+      "path": "2025/thumbs/IMG_2233_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2233_01.jpg"
+      "path": "2025/previews/IMG_2233_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761646691000,
@@ -678,14 +633,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2214_03.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2214_03.webp"
+      "path": "2025/thumbs/IMG_2214_03.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2214_03.jpg"
+      "path": "2025/previews/IMG_2214_03.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1761644929000,
@@ -703,14 +656,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2202.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2202.webp"
+      "path": "2025/thumbs/IMG_2202.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2202.jpg"
+      "path": "2025/previews/IMG_2202.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761644372000,
@@ -728,14 +679,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2181.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2181.webp"
+      "path": "2025/thumbs/IMG_2181.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2181.jpg"
+      "path": "2025/previews/IMG_2181.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761643429000,
@@ -753,14 +702,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2168.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2168.webp"
+      "path": "2025/thumbs/IMG_2168.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2168.jpg"
+      "path": "2025/previews/IMG_2168.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1761640315000,
@@ -779,14 +726,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2144.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2144.webp"
+      "path": "2025/thumbs/IMG_2144.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2144.jpg"
+      "path": "2025/previews/IMG_2144.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1759499531000,
@@ -804,14 +749,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2134.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2134.webp"
+      "path": "2025/thumbs/IMG_2134.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2134.jpg"
+      "path": "2025/previews/IMG_2134.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759498653000,
@@ -829,14 +772,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2123.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2123.webp"
+      "path": "2025/thumbs/IMG_2123.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2123.jpg"
+      "path": "2025/previews/IMG_2123.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1759498536000,
@@ -854,14 +795,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2118.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2118.webp"
+      "path": "2025/thumbs/IMG_2118.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2118.jpg"
+      "path": "2025/previews/IMG_2118.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1759498256000,
@@ -879,14 +818,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2116.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2116.webp"
+      "path": "2025/thumbs/IMG_2116.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2116.jpg"
+      "path": "2025/previews/IMG_2116.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759497974000,
@@ -904,14 +841,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2078.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2078.webp"
+      "path": "2025/thumbs/IMG_2078.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2078.jpg"
+      "path": "2025/previews/IMG_2078.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759497148000,
@@ -929,14 +864,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2066.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2066.webp"
+      "path": "2025/thumbs/IMG_2066.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2066.jpg"
+      "path": "2025/previews/IMG_2066.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1759497103000,
@@ -954,14 +887,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2064.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2064.webp"
+      "path": "2025/thumbs/IMG_2064.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2064.jpg"
+      "path": "2025/previews/IMG_2064.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1759496705000,
@@ -979,14 +910,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2051.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2051.webp"
+      "path": "2025/thumbs/IMG_2051.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2051.jpg"
+      "path": "2025/previews/IMG_2051.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759496629000,
@@ -1004,14 +933,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2026.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2026.webp"
+      "path": "2025/thumbs/IMG_2026.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2026.jpg"
+      "path": "2025/previews/IMG_2026.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759495273000,
@@ -1030,14 +957,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2014.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2014.webp"
+      "path": "2025/thumbs/IMG_2014.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2014.jpg"
+      "path": "2025/previews/IMG_2014.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759495090000,
@@ -1055,14 +980,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_2003_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_2003_01.webp"
+      "path": "2025/thumbs/IMG_2003_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_2003_01.jpg"
+      "path": "2025/previews/IMG_2003_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759495054000,
@@ -1080,14 +1003,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1996.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1996.webp"
+      "path": "2025/thumbs/IMG_1996.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1996.jpg"
+      "path": "2025/previews/IMG_1996.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1759494824000,
@@ -1105,14 +1026,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1844.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1844.webp"
+      "path": "2025/thumbs/IMG_1844.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1844.jpg"
+      "path": "2025/previews/IMG_1844.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756889349000,
@@ -1131,14 +1050,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1834.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1834.webp"
+      "path": "2025/thumbs/IMG_1834.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1834.jpg"
+      "path": "2025/previews/IMG_1834.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756889309000,
@@ -1157,14 +1074,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1818.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1818.webp"
+      "path": "2025/thumbs/IMG_1818.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1818.jpg"
+      "path": "2025/previews/IMG_1818.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756888923000,
@@ -1183,14 +1098,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1814.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1814.webp"
+      "path": "2025/thumbs/IMG_1814.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1814.jpg"
+      "path": "2025/previews/IMG_1814.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756888874000,
@@ -1209,14 +1122,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1785.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1785.webp"
+      "path": "2025/thumbs/IMG_1785.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1785.jpg"
+      "path": "2025/previews/IMG_1785.jpg"
     },
-    "full": null,
     "aspectRatio": "1.422",
     "exif": {
       "DateTimeOriginal": 1756887390000,
@@ -1235,14 +1146,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1771.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1771.webp"
+      "path": "2025/thumbs/IMG_1771.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1771.jpg"
+      "path": "2025/previews/IMG_1771.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756886549000,
@@ -1261,14 +1170,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1762_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1762_01.webp"
+      "path": "2025/thumbs/IMG_1762_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1762_01.jpg"
+      "path": "2025/previews/IMG_1762_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756885748000,
@@ -1286,14 +1193,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1754_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1754_01.webp"
+      "path": "2025/thumbs/IMG_1754_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1754_01.jpg"
+      "path": "2025/previews/IMG_1754_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1756885714000,
@@ -1311,14 +1216,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1748.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1748.webp"
+      "path": "2025/thumbs/IMG_1748.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1748.jpg"
+      "path": "2025/previews/IMG_1748.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756885239000,
@@ -1337,14 +1240,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1714.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1714.webp"
+      "path": "2025/thumbs/IMG_1714.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1714.jpg"
+      "path": "2025/previews/IMG_1714.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756882755000,
@@ -1362,14 +1263,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1709_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1709_01.webp"
+      "path": "2025/thumbs/IMG_1709_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1709_01.jpg"
+      "path": "2025/previews/IMG_1709_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756882612000,
@@ -1388,14 +1287,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1701.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1701.webp"
+      "path": "2025/thumbs/IMG_1701.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1701.jpg"
+      "path": "2025/previews/IMG_1701.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756882266000,
@@ -1414,14 +1311,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1682.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1682.webp"
+      "path": "2025/thumbs/IMG_1682.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1682.jpg"
+      "path": "2025/previews/IMG_1682.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756880871000,
@@ -1439,14 +1334,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1677_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1677_01.webp"
+      "path": "2025/thumbs/IMG_1677_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1677_01.jpg"
+      "path": "2025/previews/IMG_1677_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756880569000,
@@ -1465,14 +1358,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1664.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1664.webp"
+      "path": "2025/thumbs/IMG_1664.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1664.jpg"
+      "path": "2025/previews/IMG_1664.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1756880180000,
@@ -1492,14 +1383,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1651.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1651.webp"
+      "path": "2025/thumbs/IMG_1651.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1651.jpg"
+      "path": "2025/previews/IMG_1651.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755449035000,
@@ -1518,14 +1407,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1635.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1635.webp"
+      "path": "2025/thumbs/IMG_1635.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1635.jpg"
+      "path": "2025/previews/IMG_1635.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1755447984000,
@@ -1545,14 +1432,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1612.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1612.webp"
+      "path": "2025/thumbs/IMG_1612.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1612.jpg"
+      "path": "2025/previews/IMG_1612.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1755446863000,
@@ -1570,14 +1455,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1598.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1598.webp"
+      "path": "2025/thumbs/IMG_1598.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1598.jpg"
+      "path": "2025/previews/IMG_1598.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755443815000,
@@ -1596,14 +1479,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1594.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1594.webp"
+      "path": "2025/thumbs/IMG_1594.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1594.jpg"
+      "path": "2025/previews/IMG_1594.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755443719000,
@@ -1622,14 +1503,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1592.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1592.webp"
+      "path": "2025/thumbs/IMG_1592.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1592.jpg"
+      "path": "2025/previews/IMG_1592.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755443692000,
@@ -1649,14 +1528,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1571.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1571.webp"
+      "path": "2025/thumbs/IMG_1571.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1571.jpg"
+      "path": "2025/previews/IMG_1571.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755182423000,
@@ -1675,14 +1552,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1551.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1551.webp"
+      "path": "2025/thumbs/IMG_1551.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1551.jpg"
+      "path": "2025/previews/IMG_1551.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755182394000,
@@ -1701,14 +1576,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1529_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1529_01.webp"
+      "path": "2025/thumbs/IMG_1529_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1529_01.jpg"
+      "path": "2025/previews/IMG_1529_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755181710000,
@@ -1728,14 +1601,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1517_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1517_01.webp"
+      "path": "2025/thumbs/IMG_1517_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1517_01.jpg"
+      "path": "2025/previews/IMG_1517_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755181455000,
@@ -1753,14 +1624,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1490.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1490.webp"
+      "path": "2025/thumbs/IMG_1490.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1490.jpg"
+      "path": "2025/previews/IMG_1490.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755180940000,
@@ -1779,14 +1648,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1479.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1479.webp"
+      "path": "2025/thumbs/IMG_1479.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1479.jpg"
+      "path": "2025/previews/IMG_1479.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755180778000,
@@ -1805,14 +1672,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1427_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1427_01.webp"
+      "path": "2025/thumbs/IMG_1427_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1427_01.jpg"
+      "path": "2025/previews/IMG_1427_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1755178474000,
@@ -1830,14 +1695,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1309_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1309_01.webp"
+      "path": "2025/thumbs/IMG_1309_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1309_01.jpg"
+      "path": "2025/previews/IMG_1309_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754841362000,
@@ -1855,14 +1718,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1304.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1304.webp"
+      "path": "2025/thumbs/IMG_1304.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1304.jpg"
+      "path": "2025/previews/IMG_1304.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1754838711000,
@@ -1880,14 +1741,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1294.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1294.webp"
+      "path": "2025/thumbs/IMG_1294.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1294.jpg"
+      "path": "2025/previews/IMG_1294.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754838420000,
@@ -1905,14 +1764,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1292_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1292_01.webp"
+      "path": "2025/thumbs/IMG_1292_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1292_01.jpg"
+      "path": "2025/previews/IMG_1292_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754838220000,
@@ -1930,14 +1787,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1284.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1284.webp"
+      "path": "2025/thumbs/IMG_1284.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1284.jpg"
+      "path": "2025/previews/IMG_1284.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754836317000,
@@ -1956,14 +1811,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1246.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1246.webp"
+      "path": "2025/thumbs/IMG_1246.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1246.jpg"
+      "path": "2025/previews/IMG_1246.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754830729000,
@@ -1981,14 +1834,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1190.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1190.webp"
+      "path": "2025/thumbs/IMG_1190.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1190.jpg"
+      "path": "2025/previews/IMG_1190.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754826855000,
@@ -2006,14 +1857,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1135.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1135.webp"
+      "path": "2025/thumbs/IMG_1135.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1135.jpg"
+      "path": "2025/previews/IMG_1135.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1754824849000,
@@ -2032,14 +1881,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1108_crop.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1108_crop.webp"
+      "path": "2025/thumbs/IMG_1108_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1108_crop.jpg"
+      "path": "2025/previews/IMG_1108_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.475",
     "exif": {
       "DateTimeOriginal": 1754824587000,
@@ -2057,14 +1904,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1060_crop.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1060_crop.webp"
+      "path": "2025/thumbs/IMG_1060_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1060_crop.jpg"
+      "path": "2025/previews/IMG_1060_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.441",
     "exif": {
       "DateTimeOriginal": 1754824496000,
@@ -2082,14 +1927,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1035.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1035.webp"
+      "path": "2025/thumbs/IMG_1035.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1035.jpg"
+      "path": "2025/previews/IMG_1035.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754824422000,
@@ -2107,14 +1950,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1024_crop.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1024_crop.webp"
+      "path": "2025/thumbs/IMG_1024_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1024_crop.jpg"
+      "path": "2025/previews/IMG_1024_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.456",
     "exif": {
       "DateTimeOriginal": 1754824127000,
@@ -2132,14 +1973,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_1014.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_1014.webp"
+      "path": "2025/thumbs/IMG_1014.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_1014.jpg"
+      "path": "2025/previews/IMG_1014.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754824125000,
@@ -2157,14 +1996,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0998.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0998.webp"
+      "path": "2025/thumbs/IMG_0998.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0998.jpg"
+      "path": "2025/previews/IMG_0998.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754824119000,
@@ -2184,14 +2021,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0958.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0958.webp"
+      "path": "2025/thumbs/IMG_0958.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0958.jpg"
+      "path": "2025/previews/IMG_0958.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1754822857000,
@@ -2210,14 +2045,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0947.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0947.webp"
+      "path": "2025/thumbs/IMG_0947.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0947.jpg"
+      "path": "2025/previews/IMG_0947.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1754821263000,
@@ -2236,14 +2069,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0943.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0943.webp"
+      "path": "2025/thumbs/IMG_0943.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0943.jpg"
+      "path": "2025/previews/IMG_0943.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754821109000,
@@ -2262,14 +2093,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0930.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0930.webp"
+      "path": "2025/thumbs/IMG_0930.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0930.jpg"
+      "path": "2025/previews/IMG_0930.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1754737922000,
@@ -2287,14 +2116,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0919.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0919.webp"
+      "path": "2025/thumbs/IMG_0919.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0919.jpg"
+      "path": "2025/previews/IMG_0919.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754729015000,
@@ -2312,14 +2139,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0917.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0917.webp"
+      "path": "2025/thumbs/IMG_0917.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0917.jpg"
+      "path": "2025/previews/IMG_0917.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754729004000,
@@ -2337,14 +2162,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0845.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0845.webp"
+      "path": "2025/thumbs/IMG_0845.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0845.jpg"
+      "path": "2025/previews/IMG_0845.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754727535000,
@@ -2362,14 +2185,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0827.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0827.webp"
+      "path": "2025/thumbs/IMG_0827.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0827.jpg"
+      "path": "2025/previews/IMG_0827.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754727345000,
@@ -2387,14 +2208,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0796.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0796.webp"
+      "path": "2025/thumbs/IMG_0796.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0796.jpg"
+      "path": "2025/previews/IMG_0796.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754726363000,
@@ -2412,14 +2231,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0780.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0780.webp"
+      "path": "2025/thumbs/IMG_0780.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0780.jpg"
+      "path": "2025/previews/IMG_0780.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754725985000,
@@ -2437,14 +2254,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0774.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0774.webp"
+      "path": "2025/thumbs/IMG_0774.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0774.jpg"
+      "path": "2025/previews/IMG_0774.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1754725983000,
@@ -2462,14 +2277,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0746.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0746.webp"
+      "path": "2025/thumbs/IMG_0746.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0746.jpg"
+      "path": "2025/previews/IMG_0746.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754725067000,
@@ -2488,14 +2301,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0728_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0728_01.webp"
+      "path": "2025/thumbs/IMG_0728_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0728_01.jpg"
+      "path": "2025/previews/IMG_0728_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754724539000,
@@ -2513,14 +2324,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0707.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0707.webp"
+      "path": "2025/thumbs/IMG_0707.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0707.jpg"
+      "path": "2025/previews/IMG_0707.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754056338000,
@@ -2538,14 +2347,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0611_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0611_01.webp"
+      "path": "2025/thumbs/IMG_0611_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0611_01.jpg"
+      "path": "2025/previews/IMG_0611_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754029053000,
@@ -2563,14 +2370,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0601.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0601.webp"
+      "path": "2025/thumbs/IMG_0601.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0601.jpg"
+      "path": "2025/previews/IMG_0601.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1754029037000,
@@ -2590,14 +2395,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0486_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0486_01.webp"
+      "path": "2025/thumbs/IMG_0486_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0486_01.jpg"
+      "path": "2025/previews/IMG_0486_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753896119000,
@@ -2615,14 +2418,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0275.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0275.webp"
+      "path": "2025/thumbs/IMG_0275.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0275.jpg"
+      "path": "2025/previews/IMG_0275.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753888505000,
@@ -2641,14 +2442,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0265.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0265.webp"
+      "path": "2025/thumbs/IMG_0265.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0265.jpg"
+      "path": "2025/previews/IMG_0265.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753888466000,
@@ -2668,14 +2467,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0258.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0258.webp"
+      "path": "2025/thumbs/IMG_0258.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0258.jpg"
+      "path": "2025/previews/IMG_0258.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753888440000,
@@ -2695,14 +2492,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0253.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0253.webp"
+      "path": "2025/thumbs/IMG_0253.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0253.jpg"
+      "path": "2025/previews/IMG_0253.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753888383000,
@@ -2721,14 +2516,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0250.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0250.webp"
+      "path": "2025/thumbs/IMG_0250.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0250.jpg"
+      "path": "2025/previews/IMG_0250.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753888222000,
@@ -2747,14 +2540,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0225_02.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0225_02.webp"
+      "path": "2025/thumbs/IMG_0225_02.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0225_02.jpg"
+      "path": "2025/previews/IMG_0225_02.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753887952000,
@@ -2773,14 +2564,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0172_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0172_01.webp"
+      "path": "2025/thumbs/IMG_0172_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0172_01.jpg"
+      "path": "2025/previews/IMG_0172_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753875264000,
@@ -2799,14 +2588,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0167_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0167_01.webp"
+      "path": "2025/thumbs/IMG_0167_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0167_01.jpg"
+      "path": "2025/previews/IMG_0167_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1753871012000,
@@ -2824,14 +2611,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0159_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0159_01.webp"
+      "path": "2025/thumbs/IMG_0159_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0159_01.jpg"
+      "path": "2025/previews/IMG_0159_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1753870902000,
@@ -2849,14 +2634,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0088.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_0088.webp"
+      "path": "2025/thumbs/IMG_0088.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0088.jpg"
+      "path": "2025/previews/IMG_0088.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753801549000,
@@ -2876,14 +2659,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9880.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9880.webp"
+      "path": "2025/thumbs/IMG_9880.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9880.jpg"
+      "path": "2025/previews/IMG_9880.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753417595000,
@@ -2902,14 +2683,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9690.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9690.webp"
+      "path": "2025/thumbs/IMG_9690.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9690.jpg"
+      "path": "2025/previews/IMG_9690.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753175663000,
@@ -2928,14 +2707,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9612.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9612.webp"
+      "path": "2025/thumbs/IMG_9612.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9612.jpg"
+      "path": "2025/previews/IMG_9612.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753166725000,
@@ -2953,14 +2730,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9603.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9603.webp"
+      "path": "2025/thumbs/IMG_9603.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9603.jpg"
+      "path": "2025/previews/IMG_9603.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753166318000,
@@ -2980,14 +2755,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9574.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9574.webp"
+      "path": "2025/thumbs/IMG_9574.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9574.jpg"
+      "path": "2025/previews/IMG_9574.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753163786000,
@@ -3006,14 +2779,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9541.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9541.webp"
+      "path": "2025/thumbs/IMG_9541.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9541.jpg"
+      "path": "2025/previews/IMG_9541.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753162833000,
@@ -3033,14 +2804,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9497.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9497.webp"
+      "path": "2025/thumbs/IMG_9497.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9497.jpg"
+      "path": "2025/previews/IMG_9497.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753107323000,
@@ -3059,14 +2828,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9416.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9416.webp"
+      "path": "2025/thumbs/IMG_9416.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9416.jpg"
+      "path": "2025/previews/IMG_9416.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105491000,
@@ -3085,14 +2852,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9365.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9365.webp"
+      "path": "2025/thumbs/IMG_9365.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9365.jpg"
+      "path": "2025/previews/IMG_9365.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105433000,
@@ -3111,14 +2876,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9323.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9323.webp"
+      "path": "2025/thumbs/IMG_9323.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9323.jpg"
+      "path": "2025/previews/IMG_9323.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753105404000,
@@ -3137,14 +2900,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9295.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9295.webp"
+      "path": "2025/thumbs/IMG_9295.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9295.jpg"
+      "path": "2025/previews/IMG_9295.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753013439000,
@@ -3162,14 +2923,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9220.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9220.webp"
+      "path": "2025/thumbs/IMG_9220.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9220.jpg"
+      "path": "2025/previews/IMG_9220.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1753010812000,
@@ -3188,14 +2947,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_9068.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_9068.webp"
+      "path": "2025/thumbs/IMG_9068.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_9068.jpg"
+      "path": "2025/previews/IMG_9068.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752712641000,
@@ -3214,14 +2971,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8623.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8623.webp"
+      "path": "2025/thumbs/IMG_8623.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8623.jpg"
+      "path": "2025/previews/IMG_8623.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752402605000,
@@ -3241,14 +2996,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8613.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8613.webp"
+      "path": "2025/thumbs/IMG_8613.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8613.jpg"
+      "path": "2025/previews/IMG_8613.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752402041000,
@@ -3268,14 +3021,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8581.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8581.webp"
+      "path": "2025/thumbs/IMG_8581.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8581.jpg"
+      "path": "2025/previews/IMG_8581.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752397945000,
@@ -3293,14 +3044,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8526.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8526.webp"
+      "path": "2025/thumbs/IMG_8526.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8526.jpg"
+      "path": "2025/previews/IMG_8526.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752307517000,
@@ -3320,14 +3069,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8521.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8521.webp"
+      "path": "2025/thumbs/IMG_8521.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8521.jpg"
+      "path": "2025/previews/IMG_8521.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752307453000,
@@ -3347,14 +3094,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8502.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_8502.webp"
+      "path": "2025/thumbs/IMG_8502.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8502.jpg"
+      "path": "2025/previews/IMG_8502.jpg"
     },
-    "full": null,
     "aspectRatio": "1.389",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3372,14 +3117,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8467.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8467.webp"
+      "path": "2025/thumbs/IMG_8467.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8467.jpg"
+      "path": "2025/previews/IMG_8467.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752208420000,
@@ -3398,14 +3141,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8450_03.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8450_03.webp"
+      "path": "2025/thumbs/IMG_8450_03.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8450_03.jpg"
+      "path": "2025/previews/IMG_8450_03.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1752208149000,
@@ -3423,14 +3164,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8432.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8432.webp"
+      "path": "2025/thumbs/IMG_8432.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8432.jpg"
+      "path": "2025/previews/IMG_8432.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752207828000,
@@ -3448,14 +3187,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8413.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8413.webp"
+      "path": "2025/thumbs/IMG_8413.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8413.jpg"
+      "path": "2025/previews/IMG_8413.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752207734000,
@@ -3475,14 +3212,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8379.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8379.webp"
+      "path": "2025/thumbs/IMG_8379.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8379.jpg"
+      "path": "2025/previews/IMG_8379.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752206999000,
@@ -3500,14 +3235,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8327.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8327.webp"
+      "path": "2025/thumbs/IMG_8327.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8327.jpg"
+      "path": "2025/previews/IMG_8327.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": 1752206124000,
@@ -3525,14 +3258,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8290.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8290.webp"
+      "path": "2025/thumbs/IMG_8290.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8290.jpg"
+      "path": "2025/previews/IMG_8290.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1752202573000,
@@ -3550,30 +3281,27 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/ospreyfull.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/ospreyfull.webp"
+      "path": "2025/thumbs/ospreyfull.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/ospreyfull.mp4"
+      "path": "2025/media/ospreyfull.mp4"
     },
     "preview": null,
     "date": 1752141281210
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_8094.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_8094.webp"
+      "path": "2025/thumbs/IMG_8094.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_8094.jpg"
+      "path": "2025/previews/IMG_8094.jpg"
     },
-    "full": null,
     "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1752046121000,
@@ -3591,14 +3319,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7557.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_7557.webp"
+      "path": "2025/thumbs/IMG_7557.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7557.jpg"
+      "path": "2025/previews/IMG_7557.jpg"
     },
-    "full": null,
     "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1752039660000,
@@ -3616,14 +3342,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7515.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7515.webp"
+      "path": "2025/thumbs/IMG_7515.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7515.jpg"
+      "path": "2025/previews/IMG_7515.jpg"
     },
-    "full": null,
     "aspectRatio": "1.437",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3641,14 +3365,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7499.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7499.webp"
+      "path": "2025/thumbs/IMG_7499.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7499.jpg"
+      "path": "2025/previews/IMG_7499.jpg"
     },
-    "full": null,
     "aspectRatio": "1.472",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3666,30 +3388,27 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/wagtail_calling.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/wagtail_calling.webp"
+      "path": "2025/thumbs/wagtail_calling.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/wagtail_calling.mp4"
+      "path": "2025/media/wagtail_calling.mp4"
     },
     "preview": null,
     "date": 1751866110857
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7493_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7493_crop.webp"
+      "path": "2025/thumbs/IMG_7493_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7493_crop.jpg"
+      "path": "2025/previews/IMG_7493_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.672",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3707,14 +3426,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7481_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7481_crop.webp"
+      "path": "2025/thumbs/IMG_7481_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7481_crop.jpg"
+      "path": "2025/previews/IMG_7481_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.672",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3732,14 +3449,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7454.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7454.webp"
+      "path": "2025/thumbs/IMG_7454.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7454.jpg"
+      "path": "2025/previews/IMG_7454.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3757,14 +3472,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7456.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7456.webp"
+      "path": "2025/thumbs/IMG_7456.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7456.jpg"
+      "path": "2025/previews/IMG_7456.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3782,14 +3495,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7303.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7303.webp"
+      "path": "2025/thumbs/IMG_7303.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7303.jpg"
+      "path": "2025/previews/IMG_7303.jpg"
     },
-    "full": null,
     "aspectRatio": "1.796",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3807,14 +3518,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7243.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7243.webp"
+      "path": "2025/thumbs/IMG_7243.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7243.jpg"
+      "path": "2025/previews/IMG_7243.jpg"
     },
-    "full": null,
     "aspectRatio": "1.561",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3832,14 +3541,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7240_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7240_crop.webp"
+      "path": "2025/thumbs/IMG_7240_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7240_crop.jpg"
+      "path": "2025/previews/IMG_7240_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.569",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3856,14 +3563,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7229.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7229.webp"
+      "path": "2025/thumbs/IMG_7229.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7229.jpg"
+      "path": "2025/previews/IMG_7229.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3881,14 +3586,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7212_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7212_crop.webp"
+      "path": "2025/thumbs/IMG_7212_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7212_crop.jpg"
+      "path": "2025/previews/IMG_7212_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.460",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3906,14 +3609,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7177.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7177.webp"
+      "path": "2025/thumbs/IMG_7177.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7177.jpg"
+      "path": "2025/previews/IMG_7177.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3931,14 +3632,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7112_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7112_crop.webp"
+      "path": "2025/thumbs/IMG_7112_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7112_crop.jpg"
+      "path": "2025/previews/IMG_7112_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.449",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3956,14 +3655,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7091_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7091_crop.webp"
+      "path": "2025/thumbs/IMG_7091_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7091_crop.jpg"
+      "path": "2025/previews/IMG_7091_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.345",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -3981,14 +3678,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_7058_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_7058_crop.webp"
+      "path": "2025/thumbs/IMG_7058_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_7058_crop.jpg"
+      "path": "2025/previews/IMG_7058_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.291",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4006,14 +3701,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6967.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6967.webp"
+      "path": "2025/thumbs/IMG_6967.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6967.jpg"
+      "path": "2025/previews/IMG_6967.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4031,14 +3724,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6954.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6954.webp"
+      "path": "2025/thumbs/IMG_6954.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6954.jpg"
+      "path": "2025/previews/IMG_6954.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4056,14 +3747,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6944.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6944.webp"
+      "path": "2025/thumbs/IMG_6944.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6944.jpg"
+      "path": "2025/previews/IMG_6944.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4081,14 +3770,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6898.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6898.webp"
+      "path": "2025/thumbs/IMG_6898.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6898.jpg"
+      "path": "2025/previews/IMG_6898.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4106,14 +3793,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6895.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6895.webp"
+      "path": "2025/thumbs/IMG_6895.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6895.jpg"
+      "path": "2025/previews/IMG_6895.jpg"
     },
-    "full": null,
     "aspectRatio": "1.861",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4131,14 +3816,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6888.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6888.webp"
+      "path": "2025/thumbs/IMG_6888.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6888.jpg"
+      "path": "2025/previews/IMG_6888.jpg"
     },
-    "full": null,
     "aspectRatio": "1.745",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4156,14 +3839,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6847.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6847.webp"
+      "path": "2025/thumbs/IMG_6847.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6847.jpg"
+      "path": "2025/previews/IMG_6847.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4181,14 +3862,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6845.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6845.webp"
+      "path": "2025/thumbs/IMG_6845.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6845.jpg"
+      "path": "2025/previews/IMG_6845.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4206,14 +3885,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6838.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6838.webp"
+      "path": "2025/thumbs/IMG_6838.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6838.jpg"
+      "path": "2025/previews/IMG_6838.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4231,14 +3908,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6834.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6834.webp"
+      "path": "2025/thumbs/IMG_6834.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6834.jpg"
+      "path": "2025/previews/IMG_6834.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4256,78 +3931,72 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/common_gull_on_nest.mov",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/common_gull_on_nest.webp"
+      "path": "2025/thumbs/common_gull_on_nest.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/common_gull_on_nest.mov"
+      "path": "2025/media/common_gull_on_nest.mov"
     },
     "preview": null,
     "date": 1750959674440
   },
   {
     "type": "video",
-    "origPath": "main/orig/lockonstab2.mp4",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/lockonstab2.webp"
+      "path": "2025/thumbs/lockonstab2.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/lockonstab2.mp4"
+      "path": "2025/media/lockonstab2.mp4"
     },
     "preview": null,
     "date": 1750526990300
   },
   {
     "type": "audio",
-    "origPath": "main/orig/trepip_bad.wav",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/trepip_bad.webp"
+      "path": "2025/thumbs/trepip_bad.webp"
     },
-    "full": {
+    "media": {
       "width": 640,
       "height": 480,
-      "path": "main/full/trepip_bad.mp4"
+      "path": "2025/media/trepip_bad.mp4"
     },
     "preview": null,
     "date": 1750448966382
   },
   {
     "type": "audio",
-    "origPath": "main/orig/trepip_2.wav",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/trepip_2.webp"
+      "path": "2025/thumbs/trepip_2.webp"
     },
-    "full": {
+    "media": {
       "width": 640,
       "height": 480,
-      "path": "main/full/trepip_2.mp4"
+      "path": "2025/media/trepip_2.mp4"
     },
     "preview": null,
     "date": 1750448417375
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6792.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6792.webp"
+      "path": "2025/thumbs/IMG_6792.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6792.jpg"
+      "path": "2025/previews/IMG_6792.jpg"
     },
-    "full": null,
     "aspectRatio": "1.331",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4345,15 +4014,13 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6791.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6791.webp"
+      "path": "2025/thumbs/IMG_6791.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6791.jpg"
+      "path": "2025/previews/IMG_6791.jpg"
     },
-    "full": null,
-    "aspectRatio": "0.667",
+    "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
       "ExposureTime": "1/250",
@@ -4370,14 +4037,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6789.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6789.webp"
+      "path": "2025/thumbs/IMG_6789.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6789.jpg"
+      "path": "2025/previews/IMG_6789.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4395,14 +4060,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6776.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6776.webp"
+      "path": "2025/thumbs/IMG_6776.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6776.jpg"
+      "path": "2025/previews/IMG_6776.jpg"
     },
-    "full": null,
     "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1750434874000,
@@ -4420,14 +4083,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/image3.jpg",
     "thumb": {
-      "path": "main/thumbs/image3.webp"
+      "path": "2025/thumbs/image3.webp"
     },
     "preview": {
-      "path": "main/previews/image3.jpg"
+      "path": "2025/previews/image3.jpg"
     },
-    "full": null,
     "aspectRatio": "1.302",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4445,14 +4106,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6718.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6718.webp"
+      "path": "2025/thumbs/IMG_6718.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6718.jpg"
+      "path": "2025/previews/IMG_6718.jpg"
     },
-    "full": null,
     "aspectRatio": "1.600",
     "exif": {
       "DateTimeOriginal": 1750431565000,
@@ -4470,14 +4129,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6708.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6708.webp"
+      "path": "2025/thumbs/IMG_6708.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6708.jpg"
+      "path": "2025/previews/IMG_6708.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "DateTimeOriginal": 1750430930000,
@@ -4495,14 +4152,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6685.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6685.webp"
+      "path": "2025/thumbs/IMG_6685.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6685.jpg"
+      "path": "2025/previews/IMG_6685.jpg"
     },
-    "full": null,
     "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
@@ -4511,14 +4166,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6673_01.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6673_01.webp"
+      "path": "2025/thumbs/IMG_6673_01.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6673_01.jpg"
+      "path": "2025/previews/IMG_6673_01.jpg"
     },
-    "full": null,
     "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
@@ -4527,14 +4180,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6157.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6157.webp"
+      "path": "2025/thumbs/IMG_6157.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6157.jpg"
+      "path": "2025/previews/IMG_6157.jpg"
     },
-    "full": null,
     "aspectRatio": "1.779",
     "exif": {
       "DateTimeOriginal": null
@@ -4543,14 +4194,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6342.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6342.webp"
+      "path": "2025/thumbs/IMG_6342.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6342.jpg"
+      "path": "2025/previews/IMG_6342.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4559,14 +4208,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6341.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6341.webp"
+      "path": "2025/thumbs/IMG_6341.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6341.jpg"
+      "path": "2025/previews/IMG_6341.jpg"
     },
-    "full": null,
     "aspectRatio": "1.471",
     "exif": {
       "DateTimeOriginal": null
@@ -4575,14 +4222,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6339.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6339.webp"
+      "path": "2025/thumbs/IMG_6339.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6339.jpg"
+      "path": "2025/previews/IMG_6339.jpg"
     },
-    "full": null,
     "aspectRatio": "1.420",
     "exif": {
       "DateTimeOriginal": null
@@ -4591,14 +4236,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6339_org.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6339_org.webp"
+      "path": "2025/thumbs/IMG_6339_org.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6339_org.jpg"
+      "path": "2025/previews/IMG_6339_org.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4607,14 +4250,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6327.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6327.webp"
+      "path": "2025/thumbs/IMG_6327.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6327.jpg"
+      "path": "2025/previews/IMG_6327.jpg"
     },
-    "full": null,
     "aspectRatio": "1.665",
     "exif": {
       "DateTimeOriginal": null
@@ -4623,14 +4264,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6308.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6308.webp"
+      "path": "2025/thumbs/IMG_6308.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6308.jpg"
+      "path": "2025/previews/IMG_6308.jpg"
     },
-    "full": null,
     "aspectRatio": "1.586",
     "exif": {
       "DateTimeOriginal": null
@@ -4639,14 +4278,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6294.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6294.webp"
+      "path": "2025/thumbs/IMG_6294.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6294.jpg"
+      "path": "2025/previews/IMG_6294.jpg"
     },
-    "full": null,
     "aspectRatio": "1.450",
     "exif": {
       "DateTimeOriginal": null
@@ -4655,14 +4292,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6294_org.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6294_org.webp"
+      "path": "2025/thumbs/IMG_6294_org.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6294_org.jpg"
+      "path": "2025/previews/IMG_6294_org.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4671,14 +4306,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6274.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6274.webp"
+      "path": "2025/thumbs/IMG_6274.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6274.jpg"
+      "path": "2025/previews/IMG_6274.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4687,14 +4320,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6215.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6215.webp"
+      "path": "2025/thumbs/IMG_6215.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6215.jpg"
+      "path": "2025/previews/IMG_6215.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4703,14 +4334,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6211.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6211.webp"
+      "path": "2025/thumbs/IMG_6211.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6211.jpg"
+      "path": "2025/previews/IMG_6211.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4719,14 +4348,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6206.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6206.webp"
+      "path": "2025/thumbs/IMG_6206.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6206.jpg"
+      "path": "2025/previews/IMG_6206.jpg"
     },
-    "full": null,
     "aspectRatio": "1.502",
     "exif": {
       "DateTimeOriginal": null
@@ -4735,14 +4362,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6179.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6179.webp"
+      "path": "2025/thumbs/IMG_6179.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6179.jpg"
+      "path": "2025/previews/IMG_6179.jpg"
     },
-    "full": null,
     "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
@@ -4751,14 +4376,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6177.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6177.webp"
+      "path": "2025/thumbs/IMG_6177.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6177.jpg"
+      "path": "2025/previews/IMG_6177.jpg"
     },
-    "full": null,
     "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
@@ -4767,14 +4390,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6170.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6170.webp"
+      "path": "2025/thumbs/IMG_6170.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6170.jpg"
+      "path": "2025/previews/IMG_6170.jpg"
     },
-    "full": null,
     "aspectRatio": "1.779",
     "exif": {
       "DateTimeOriginal": null
@@ -4783,14 +4404,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6160.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6160.webp"
+      "path": "2025/thumbs/IMG_6160.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6160.jpg"
+      "path": "2025/previews/IMG_6160.jpg"
     },
-    "full": null,
     "aspectRatio": "1.778",
     "exif": {
       "DateTimeOriginal": null
@@ -4799,14 +4418,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6564.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6564.webp"
+      "path": "2025/thumbs/IMG_6564.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6564.jpg"
+      "path": "2025/previews/IMG_6564.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4824,14 +4441,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6558.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6558.webp"
+      "path": "2025/thumbs/IMG_6558.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6558.jpg"
+      "path": "2025/previews/IMG_6558.jpg"
     },
-    "full": null,
     "aspectRatio": "1.484",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4849,30 +4464,27 @@
   },
   {
     "type": "video",
-    "origPath": "main/orig/wagtail.mov",
     "thumb": {
       "width": 400,
       "height": 300,
-      "path": "main/thumbs/wagtail.webp"
+      "path": "2025/thumbs/wagtail.webp"
     },
-    "full": {
+    "media": {
       "width": null,
       "height": null,
-      "path": "main/full/wagtail.mov"
+      "path": "2025/media/wagtail.mov"
     },
     "preview": null,
     "date": 1749983400000
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6548.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6548.webp"
+      "path": "2025/thumbs/IMG_6548.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6548.jpg"
+      "path": "2025/previews/IMG_6548.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4890,14 +4502,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6542_crop0.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_6542_crop0.webp"
+      "path": "2025/thumbs/IMG_6542_crop0.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6542_crop0.jpg"
+      "path": "2025/previews/IMG_6542_crop0.jpg"
     },
-    "full": null,
     "aspectRatio": "1.486",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4915,14 +4525,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/image4.jpg",
     "thumb": {
-      "path": "main/thumbs/image4.webp"
+      "path": "2025/thumbs/image4.webp"
     },
     "preview": {
-      "path": "main/previews/image4.jpg"
+      "path": "2025/previews/image4.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4940,14 +4548,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6228.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6228.webp"
+      "path": "2025/thumbs/IMG_6228.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6228.jpg"
+      "path": "2025/previews/IMG_6228.jpg"
     },
-    "full": null,
     "aspectRatio": "1.490",
     "exif": {
       "Model": "Canon EOS 7D",
@@ -4964,14 +4570,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_6153.jpg",
     "thumb": {
-      "path": "main/thumbs/IMG_6153.webp"
+      "path": "2025/thumbs/IMG_6153.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_6153.jpg"
+      "path": "2025/previews/IMG_6153.jpg"
     },
-    "full": null,
     "aspectRatio": "1.501",
     "exif": {
       "DateTimeOriginal": 1749634304000,
@@ -4988,210 +4592,180 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0089.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0089.webp"
+      "path": "2025/thumbs/CRW_0089.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0089.jpg"
+      "path": "2025/previews/CRW_0089.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749562736928
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0051.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0051.webp"
+      "path": "2025/thumbs/CRW_0051.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0051.jpg"
+      "path": "2025/previews/CRW_0051.jpg"
     },
-    "full": null,
     "aspectRatio": "1.521",
     "exif": null,
     "date": 1749562329636
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0098.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0098.webp"
+      "path": "2025/thumbs/CRW_0098.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0098.jpg"
+      "path": "2025/previews/CRW_0098.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560126281
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0097.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0097.webp"
+      "path": "2025/thumbs/CRW_0097.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0097.jpg"
+      "path": "2025/previews/CRW_0097.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560115041
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0092.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0092.webp"
+      "path": "2025/thumbs/CRW_0092.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0092.jpg"
+      "path": "2025/previews/CRW_0092.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560016635
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0096.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0096.webp"
+      "path": "2025/thumbs/CRW_0096.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0096.jpg"
+      "path": "2025/previews/CRW_0096.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749560009804
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0088.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0088.webp"
+      "path": "2025/thumbs/CRW_0088.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0088.jpg"
+      "path": "2025/previews/CRW_0088.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559925416
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0058.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0058.webp"
+      "path": "2025/thumbs/CRW_0058.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0058.jpg"
+      "path": "2025/previews/CRW_0058.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559665613
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0102.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0102.webp"
+      "path": "2025/thumbs/CRW_0102.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0102.jpg"
+      "path": "2025/previews/CRW_0102.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749559332967
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0011.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0011.webp"
+      "path": "2025/thumbs/CRW_0011.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0011.jpg"
+      "path": "2025/previews/CRW_0011.jpg"
     },
-    "full": null,
     "aspectRatio": "1.506",
     "exif": null,
     "date": 1749388105706
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0043.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0043.webp"
+      "path": "2025/thumbs/CRW_0043.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0043.jpg"
+      "path": "2025/previews/CRW_0043.jpg"
     },
-    "full": null,
     "aspectRatio": "0.988",
     "exif": null,
     "date": 1749387138163
   },
   {
     "type": "image",
-    "origPath": "main/orig/CRW_0032.png",
     "thumb": {
-      "path": "main/thumbs/CRW_0032.webp"
+      "path": "2025/thumbs/CRW_0032.webp"
     },
     "preview": {
-      "path": "main/previews/CRW_0032.jpg"
+      "path": "2025/previews/CRW_0032.jpg"
     },
-    "full": null,
     "aspectRatio": "1.569",
     "exif": null,
     "date": 1749386839068
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_550_panorama.jpeg",
     "thumb": {
-      "path": "main/thumbs/IMG_550_panorama.webp"
+      "path": "2025/thumbs/IMG_550_panorama.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_550_panorama.jpg"
+      "path": "2025/previews/IMG_550_panorama.jpg"
     },
-    "full": null,
     "aspectRatio": "8.050",
     "exif": null,
     "date": 1749187197026
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0314.webp",
     "thumb": {
-      "path": "main/thumbs/IMG_0314.webp"
+      "path": "2025/thumbs/IMG_0314.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0314.jpg"
+      "path": "2025/previews/IMG_0314.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": null,
     "date": 1748767512885
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0179.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0179.webp"
+      "path": "2025/thumbs/IMG_0179.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0179.jpg"
+      "path": "2025/previews/IMG_0179.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5207,14 +4781,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0178.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0178.webp"
+      "path": "2025/thumbs/IMG_0178.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0178.jpg"
+      "path": "2025/previews/IMG_0178.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5230,14 +4802,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0176.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0176.webp"
+      "path": "2025/thumbs/IMG_0176.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0176.jpg"
+      "path": "2025/previews/IMG_0176.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5253,14 +4823,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0171.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0171.webp"
+      "path": "2025/thumbs/IMG_0171.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0171.jpg"
+      "path": "2025/previews/IMG_0171.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5276,14 +4844,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0170.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0170.webp"
+      "path": "2025/thumbs/IMG_0170.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0170.jpg"
+      "path": "2025/previews/IMG_0170.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5299,14 +4865,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0169.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0169.webp"
+      "path": "2025/thumbs/IMG_0169.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0169.jpg"
+      "path": "2025/previews/IMG_0169.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5322,14 +4886,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0166.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0166.webp"
+      "path": "2025/thumbs/IMG_0166.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0166.jpg"
+      "path": "2025/previews/IMG_0166.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5345,14 +4907,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0162_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0162_crop.webp"
+      "path": "2025/thumbs/IMG_0162_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0162_crop.jpg"
+      "path": "2025/previews/IMG_0162_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.492",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5368,14 +4928,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0148.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0148.webp"
+      "path": "2025/thumbs/IMG_0148.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0148.jpg"
+      "path": "2025/previews/IMG_0148.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5391,14 +4949,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0301.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0301.webp"
+      "path": "2025/thumbs/IMG_0301.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0301.jpg"
+      "path": "2025/previews/IMG_0301.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5414,14 +4970,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0294.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0294.webp"
+      "path": "2025/thumbs/IMG_0294.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0294.jpg"
+      "path": "2025/previews/IMG_0294.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5437,14 +4991,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0526.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0526.webp"
+      "path": "2025/thumbs/IMG_0526.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0526.jpg"
+      "path": "2025/previews/IMG_0526.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5460,14 +5012,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0524.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0524.webp"
+      "path": "2025/thumbs/IMG_0524.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0524.jpg"
+      "path": "2025/previews/IMG_0524.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5483,14 +5033,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0558.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0558.webp"
+      "path": "2025/thumbs/IMG_0558.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0558.jpg"
+      "path": "2025/previews/IMG_0558.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5506,14 +5054,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0138.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0138.webp"
+      "path": "2025/thumbs/IMG_0138.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0138.jpg"
+      "path": "2025/previews/IMG_0138.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5529,14 +5075,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0439_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0439_crop.webp"
+      "path": "2025/thumbs/IMG_0439_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0439_crop.jpg"
+      "path": "2025/previews/IMG_0439_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.492",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5552,14 +5096,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0104.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0104.webp"
+      "path": "2025/thumbs/IMG_0104.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0104.jpg"
+      "path": "2025/previews/IMG_0104.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5575,14 +5117,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0231.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0231.webp"
+      "path": "2025/thumbs/IMG_0231.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0231.jpg"
+      "path": "2025/previews/IMG_0231.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5598,14 +5138,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0508.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0508.webp"
+      "path": "2025/thumbs/IMG_0508.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0508.jpg"
+      "path": "2025/previews/IMG_0508.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5621,14 +5159,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0224.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0224.webp"
+      "path": "2025/thumbs/IMG_0224.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0224.jpg"
+      "path": "2025/previews/IMG_0224.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5644,14 +5180,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0506.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0506.webp"
+      "path": "2025/thumbs/IMG_0506.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0506.jpg"
+      "path": "2025/previews/IMG_0506.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5667,14 +5201,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0419_crop0.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0419_crop0.webp"
+      "path": "2025/thumbs/IMG_0419_crop0.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0419_crop0.jpg"
+      "path": "2025/previews/IMG_0419_crop0.jpg"
     },
-    "full": null,
     "aspectRatio": "1.604",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5690,14 +5222,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0499.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0499.webp"
+      "path": "2025/thumbs/IMG_0499.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0499.jpg"
+      "path": "2025/previews/IMG_0499.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5713,14 +5243,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0247.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0247.webp"
+      "path": "2025/thumbs/IMG_0247.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0247.jpg"
+      "path": "2025/previews/IMG_0247.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5736,14 +5264,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0211.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0211.webp"
+      "path": "2025/thumbs/IMG_0211.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0211.jpg"
+      "path": "2025/previews/IMG_0211.jpg"
     },
-    "full": null,
     "aspectRatio": "1.500",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5759,14 +5285,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0359_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0359_crop.webp"
+      "path": "2025/thumbs/IMG_0359_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0359_crop.jpg"
+      "path": "2025/previews/IMG_0359_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.532",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
@@ -5782,14 +5306,12 @@
   },
   {
     "type": "image",
-    "origPath": "main/orig/IMG_0502_crop.JPG",
     "thumb": {
-      "path": "main/thumbs/IMG_0502_crop.webp"
+      "path": "2025/thumbs/IMG_0502_crop.webp"
     },
     "preview": {
-      "path": "main/previews/IMG_0502_crop.jpg"
+      "path": "2025/previews/IMG_0502_crop.jpg"
     },
-    "full": null,
     "aspectRatio": "1.405",
     "exif": {
       "Model": "Canon EOS 300D DIGITAL",
