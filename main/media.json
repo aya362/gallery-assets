@@ -1,0 +1,963 @@
+[
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3956_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3956_01.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1772566744000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 100,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1772566744000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3949.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3949.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1772566365000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1.25",
+      "FNumber": 4.5,
+      "ExposureProgram": "Manual",
+      "ISO": 500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 100,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1772566365000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3939.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3939.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1772565847000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/40",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 310,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1772565847000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/pano2.webp"
+    },
+    "preview": {
+      "path": "main/previews/pano2.jpg"
+    },
+    "aspectRatio": "0.818",
+    "exif": null,
+    "date": 1772477259726
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3839.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3839.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1772405256000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/25",
+      "FNumber": 2.5,
+      "ExposureProgram": "Manual",
+      "ISO": 6400,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 50,
+      "LensModel": "EF50mm f/2.5 Compact Macro"
+    },
+    "date": 1772405256000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3343.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3343.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1772381322000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1772381322000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_3336.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_3336.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1772380449000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 800,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1772380449000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2446.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2446.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1770819945000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/200",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 2000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770819945000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2327.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2327.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1770817890000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770817890000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2291_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2291_01.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1770816598000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770816598000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2279.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2279.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1770815935000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 500,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770815935000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2231_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2231_01.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1770815281000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770815281000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2176.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2176.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1770814831000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ExposureProgram": "Manual",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770814831000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2132.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2132.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1770727566000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 320,
+      "ExposureCompensation": 2,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770727566000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_2113.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_2113.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1770727409000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 400,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770727409000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1999.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1999.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1770725869000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 7.1,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 100,
+      "ExposureCompensation": 0.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1770725869000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1782.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1782.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769341635000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/2000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 500,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 360,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769341635000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1678.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1678.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769336084000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1600,
+      "ExposureCompensation": 0.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769336084000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1415.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1415.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769254647000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1600,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769254647000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1397.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1397.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769254528000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 340,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769254528000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1364.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1364.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1769253599000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769253599000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1093.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1093.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769093088000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 800,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769093088000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1028_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1028_01.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769081012000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769081012000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1020.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1020.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1769079461000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1250,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 365,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769079461000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_1014_03.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_1014_03.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1769077701000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 800,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769077701000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_0970.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0970.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769075823000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 250,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769075823000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_0953.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0953.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1769075181000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 320,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769075181000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_0912.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0912.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769074273000,
+      "ImageDescription": "Cinereous vulture",
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 640,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Cinereous vulture"
+    },
+    "date": 1769074273000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_0677.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0677.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769010219000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/640",
+      "FNumber": 8,
+      "ExposureProgram": "Normal program",
+      "ISO": 1600,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769010219000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_0518_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_0518_01.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1769000571000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/640",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 4000,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1769000571000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_10148_01.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_10148_01.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768922679000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 320,
+      "ExposureCompensation": -0.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768922679000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_10077_01_Nero_AI_Image_Denoiser_100_.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_10077_01_Nero_AI_Image_Denoiser_100_.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1600",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 800,
+      "DateTimeOriginal": 1768920495000,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768920495000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9966.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9966.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1768918605000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1600",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 640,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 350,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768918605000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9963.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9963.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1768918504000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1600",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 800,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768918504000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9937.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9937.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1768917166000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1600",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 1000,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768917166000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9845_02.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9845_02.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768915487000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1000",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 400,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768915487000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9817.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9817.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768914138000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1250",
+      "FNumber": 8,
+      "ExposureProgram": "Manual",
+      "ISO": 100,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768914138000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9562.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9562.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768909503000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/2000",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 500,
+      "ExposureCompensation": 0.6666666666666666,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM"
+    },
+    "date": 1768909503000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9340.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9340.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768832127000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/1600",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 800,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Black redstart"
+    },
+    "date": 1768832127000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9120.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9120.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1768817361000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 250,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 360,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Great tit"
+    },
+    "date": 1768817361000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9108.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9108.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1768817301000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 6.3,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 200,
+      "ExposureCompensation": 1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 340,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Greenfinch"
+    },
+    "date": 1768817301000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_9079.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_9079.jpg"
+    },
+    "aspectRatio": "1.501",
+    "exif": {
+      "DateTimeOriginal": 1768816043000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/500",
+      "FNumber": 5.6,
+      "ExposureProgram": "Shutter priority",
+      "ISO": 400,
+      "ExposureCompensation": 1.3333333333333333,
+      "MeteringMode": "Pattern",
+      "FocalLength": 400,
+      "LensModel": "EF100-400mm f/4.5-5.6L IS USM",
+      "Title": "Chiffchaff"
+    },
+    "date": 1768816043000
+  }
+]
