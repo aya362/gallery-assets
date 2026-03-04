@@ -2,22 +2,6 @@
   {
     "type": "image",
     "thumb": {
-      "path": "2025/thumbs/IMG_9194 - IMG_9244_18984.webp"
-    },
-    "preview": {
-      "path": "2025/previews/IMG_9194 - IMG_9244_18984.jpg"
-    },
-    "aspectRatio": "8.955",
-    "exif": {
-      "DateTimeOriginal": 1768827045000,
-      "ImageDescription": "-\r\nProjection: Orthographic (14)\r\nFOV: 146 x 16\r\nEv: 15.15",
-      "Model": "Canon EOS 7D"
-    },
-    "date": 1768827045000
-  },
-  {
-    "type": "image",
-    "thumb": {
       "path": "2025/thumbs/IMG_9052_jupiter.webp"
     },
     "preview": {
