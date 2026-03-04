@@ -3,3 +3,4 @@ test
 *.bat
 /*.js
 **/*.log
+orig
