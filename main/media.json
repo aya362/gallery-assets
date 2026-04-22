@@ -1,5 +1,120 @@
 [
   {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_6280.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6280.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1776684728000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/800",
+      "FNumber": 11,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 200,
+      "ExposureCompensation": -1,
+      "MeteringMode": "Pattern",
+      "FocalLength": 45,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1776684728000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_6273.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6273.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "DateTimeOriginal": 1776684638000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/320",
+      "FNumber": 11,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 200,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 135,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1776684638000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_6267.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6267.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": {
+      "DateTimeOriginal": 1776684599000,
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/200",
+      "FNumber": 11,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 100,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 29,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1776684599000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_6260.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6260.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/400",
+      "FNumber": 8,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 100,
+      "DateTimeOriginal": 1776684470000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 48,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1776684470000
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/IMG_6258.webp"
+    },
+    "preview": {
+      "path": "main/previews/IMG_6258.jpg"
+    },
+    "aspectRatio": "1.500",
+    "exif": {
+      "Model": "Canon EOS 7D",
+      "ExposureTime": "1/250",
+      "FNumber": 8,
+      "ExposureProgram": "Aperture priority",
+      "ISO": 100,
+      "DateTimeOriginal": 1776684446000,
+      "ExposureCompensation": 0,
+      "MeteringMode": "Pattern",
+      "FocalLength": 24,
+      "LensModel": "EF-S18-135mm f/3.5-5.6 IS"
+    },
+    "date": 1776684446000
+  },
+  {
     "type": "video",
     "thumb": {
       "width": 400,
