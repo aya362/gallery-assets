@@ -2,6 +2,81 @@
   {
     "type": "image",
     "thumb": {
+      "path": "main/thumbs/result.fit.fz.siril.tiff.darker.webp"
+    },
+    "preview": {
+      "path": "main/previews/result.fit.fz.siril.tiff.darker.jpg"
+    },
+    "aspectRatio": "1.247",
+    "exif": null,
+    "date": 1776967372062
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/r_milkyway_stacked.fit.fz.2.webp"
+    },
+    "preview": {
+      "path": "main/previews/r_milkyway_stacked.fit.fz.2.jpg"
+    },
+    "aspectRatio": "1.389",
+    "exif": null,
+    "date": 1776954845776
+  },
+  {
+    "type": "video",
+    "thumb": {
+      "width": 400,
+      "height": 300,
+      "path": "main/thumbs/bortle5milkywaytimelapse.webp"
+    },
+    "media": {
+      "width": null,
+      "height": null,
+      "path": "main/media/bortle5milkywaytimelapse.mp4"
+    },
+    "preview": null,
+    "date": 1776950710150
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/result.fit.fz.siril.tiff.gimp.webp"
+    },
+    "preview": {
+      "path": "main/previews/result.fit.fz.siril.tiff.gimp.jpg"
+    },
+    "aspectRatio": "1.687",
+    "exif": null,
+    "date": 1776810898104
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/result.siril.tiff.webp"
+    },
+    "preview": {
+      "path": "main/previews/result.siril.tiff.jpg"
+    },
+    "aspectRatio": "1.257",
+    "exif": null,
+    "date": 1776781814336
+  },
+  {
+    "type": "image",
+    "thumb": {
+      "path": "main/thumbs/Autosave.tif.webp"
+    },
+    "preview": {
+      "path": "main/previews/Autosave.tif.jpg"
+    },
+    "aspectRatio": "1.601",
+    "exif": null,
+    "date": 1776772050211
+  },
+  {
+    "type": "image",
+    "thumb": {
       "path": "main/thumbs/IMG_6280.webp"
     },
     "preview": {
