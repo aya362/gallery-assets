@@ -2,6 +2,18 @@
   {
     "type": "image",
     "thumb": {
+      "path": "main/thumbs/r_pleiades_stacked.fit.fz.webp"
+    },
+    "preview": {
+      "path": "main/previews/r_pleiades_stacked.fit.fz.jpg"
+    },
+    "aspectRatio": "1.502",
+    "exif": null,
+    "date": 1777748749798
+  },
+  {
+    "type": "image",
+    "thumb": {
       "path": "main/thumbs/IMG_6516.webp"
     },
     "preview": {
